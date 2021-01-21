@@ -1,1 +1,1 @@
-## Repo for [website](flavortotaste.com).
+## Repo for [website](www.flavortotaste.com).
