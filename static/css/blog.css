@@ -36,6 +36,14 @@ h6 {
   font-weight: bold;
 }
 
+.btn-link {
+  color: #c95b3d !important;
+}
+
+.btn:active {
+  color: #e8d6d6 !important;
+}
+
 .display-4 {
   font-size: 2.5rem;
 }
