@@ -128,3 +128,17 @@ h6 {
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
+
+.carousel-indicators {
+  text-align: left;
+  float: left;
+  right: inherit;
+  left: 4% !important;
+}
+
+.carousel-control-next {
+  text-align: left;
+  float: left;
+  right: inherit;
+  left: 25% !important;
+}
