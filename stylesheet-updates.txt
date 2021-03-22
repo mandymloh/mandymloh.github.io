@@ -1,0 +1,148 @@
+LANDING PAGE
+
+~~~~~
+
+HEADER DIV {
+  padding-top: 40px !important
+}
+
+#header-back {
+  background-color: #e8d6d6 !important
+}
+
+HEADER LOGO {
+  width: 40%
+}
+
+HEADER FONT {
+  color: #c95b3d !important
+}
+
+CARD-WRAPPING ANCHOR TAG {
+  text-decoration: none;
+  color: black
+}
+
+CARD DIV {
+  border-color: #e8d6d6 !important;
+  box-shadow: 0 2px 5px 0 rgba(232, 214, 214, 1), 0 5px 15px 0 rgba(232, 214, 214,.1) !important
+}
+
+LEFT DIV OF CARD {
+  width: 50%
+}
+
+/* 
+
+Elements comprising left half of recipe card
+
+*/
+
+'RECIPE' IN BOLD FONT {
+  color: #c95b3d !important
+}
+
+RECIPE TITLE {
+  padding-right: 10px;
+  z-index: 1
+}
+
+HR ELEMENT {
+  color: #c95b3d !important;
+  width: 80%
+}
+
+RIGHT DIV OF CARD {
+  width: 50%
+}
+
+/* 
+
+Elements comprising right half of recipe card
+
+*/
+
+RECIPE IMAGE {
+  width: "200";
+  height: "250"
+}
+
+FOOTER LOGO {
+  width: "50px"
+}
+
+FONTAWESOME HEART {
+  color : #c95b3d
+}
+
+LINK TO PRISCILLA'S WEBSITE {
+  color : #c95b3d
+}
+
+-----
+
+RECIPE PAGE
+
+~~~~~
+
+HEADER DIV {
+  padding-top: 40px !important
+}
+
+.navbar navbar-custom {
+  border-radius: 5px !important
+}
+
+.navbar-brand {
+  background-color: #e8d6d6
+}
+
+
+HEADER LOGO {
+  width: "60";
+  height: "48"
+}
+
+CONTACT BUTTON {
+  background-color: #c9583d;
+  border-color: #c9583d;
+  opacity: 0.7
+}
+
+RECIPE TITLE H2 {
+  padding-top: 40px
+}
+
+LINK TO MANDY ABOUT PAGE {
+  color: #c95b3d !important
+}
+
+RECIPE IMAGE THUMBNAIL {
+  border-color: #e8d6d6; box-shadow: 0 2px 5px 0 rgba(232, 214, 214, 1), 0 5px 15px 0 rgba(232, 214, 214, .1) !important
+}
+
+HR {
+  color: #c95b3d !important
+}
+
+FOOTER LOGO {
+  width: "50px"
+}
+
+FONTAWESOME HEART {
+  color : #c95b3d
+}
+
+LINK TO PRISCILLA'S WEBSITE {
+  color : #c95b3d
+}
+
+-----
+
+NOTES
+
+~~~~~
+
+Delete "!important" from button class in all recipe "headers"
+Rename blog.css?
+Increase image size on recipe pages?
