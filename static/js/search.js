@@ -32,7 +32,7 @@ const displayRecipes = (recipes) => {
     const htmlString = recipes
         .map((recipe) => {
             return `
-            <div class="col-6">
+            <div class="col-12">
                 <a href="${recipe.url}" style = "text-decoration: none; color: black;">
                     <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative" style = "border-color: #e8d6d6 !important; box-shadow: 0 2px 5px 0 rgba(232, 214, 214, 1), 0 5px 15px 0 rgba(232, 214, 214,.1) !important;">
                     <div class="col p-4 d-flex flex-column position-static" style="width: 50%">
