@@ -1,0 +1,146 @@
+[
+    {
+    "title": "Sesame Spinach Noodles",
+    "content_type": "Recipe",
+    "url": "./recipes/sesame-spinach-noodles.html",
+    "image": "./static/images/Sesame_Spinach_Noodles_1.jpg",
+    "ingredients": "chicken, shallot, soy sauce, dark soy sauce, oyster sauce, sesame oil, sugar, peppercorns, red chili oil, tahini, peanut butter, black vinegar",
+    "flavor": "umami, savory, salty"
+    },
+    {
+    "title": "Air Fryer Panko Shrimp Cutlet",
+    "content_type": "Recipe",
+    "url": "./recipes/air-fryer-panko-shrimp-cutlet.html",
+    "image": "./static/images/Air_Fryer_Shrimp_Cutlet_1.jpg",
+    "ingredients": "shrimp, salt, pepper, garlic powder, breadcrumbs, olive oil, flour, egg, olive oil, lemon, mayonnaise",
+    "flavor": "umami, savory, salty"
+    },
+    {
+    "title": "Air Fryer Malaysian Chicken Curry",
+    "content_type": "Recipe",
+    "url": "./recipes/air-fryer-malaysian-chicken-curry.html",
+    "image": "./static/images/A_Little_Twist_On_Malaysian_Chicken_Curry_Air_Fryer.jpg",
+    "ingredients": "chicken thighs, curry powder, russet potatoes, Malaysian curry, coconut milk, rice, salt, sugar, olive oil",
+    "flavor": "umami, savory, salty"
+    },
+    {
+    "title": "Loco Moco with Spam",
+    "content_type": "Recipe",
+    "url": "./recipes/loco-moco-with-spam.html",
+    "image": "./static/images/Loco_Moco_with_Spam.jpg",
+    "ingredients": "beef patties, salt, spam, eggs, cooking wine, worcestershire sauce, soy sauce, sugar, heavy cream, onion",
+    "flavor": "umami, savory, salty"
+    },
+    {
+    "title": "Air Fryer Roast Pork Belly",
+    "content_type": "Recipe",
+    "url": "./recipes/air-fryer-roast-pork-belly.html",
+    "image": "./static/images/Air_Fryer_Roast_Pork_Belly.jpg",
+    "ingredients": "pork belly, five spice, salt, hoisin sauce, five spice",
+    "flavor": "umami, savory, salty"
+    },
+    {
+    "title": "Sandy Skin Chicken / 沙皮鸡",
+    "content_type": "Recipe",
+    "url": "./recipes/sandy-skin-chicken.html",
+    "image": "./static/images/Sandy_Skin_Chicken.jpg",
+    "ingredients": "lemon juice, olive oil, evaporated milk, sugar, salt, egg yolk, white vinegar, chicken breasts, eggs, flour, breadcrumbs, nuts",
+    "flavor": "umami, savory, salty"
+    },
+    {
+    "title": "Hakka Board Noodles (Ban Mian / 板面)",
+    "content_type": "Recipe",
+    "url": "./recipes/hakka-board-noodles.html",
+    "image": "./static/images/hakka_board_noodles.jpg",
+    "ingredients": "flour, egg, dried anchovies, olive oil, ginger, mushroom stalks, salt, ground pork, shallots, shiitake mushrooms, soy sauce, dark soy sauce, oyster sauce, sesame oil, sugar, dried shrimp, dried chili, shallot, garlic",
+    "flavor": "umami, savory, salty"
+    },
+    {
+    "title": "Coconut Juice-Braised Sticky Chicken Thighs",
+    "content_type": "Recipe",
+    "url": "./recipes/coconut-juice-braised-sticky-chicken-thighs.html",
+    "image": "./static/images/coconut_juice_braised_sticky_chicken_thighs.jpg",
+    "ingredients": "Chicken Thighs, Salt, Coconut Juice, Coconut Sugar, Soy Sauce, Dark Soy Sauce, Lemongrass, Shallot, Garlic",
+    "flavor": "umami, savory, salty"
+    },
+    {
+    "title": "Butterfly Pea Flower Rice",
+    "content_type": "Recipe",
+    "url": "./recipes/butterfly-pea-flower-rice.html",
+    "image": "./static/images/butterfly_pea_flower_rice.jpg",
+    "ingredients": "Jasmine Rice, Coconut Milk, Butterfly Pea Flower Dye, Salt, Pandan Leaves",
+    "flavor": "umami"
+    },
+    {
+    "title": "Honey and Raisin Corn Flake Cups",
+    "content_type": "Recipe",
+    "url": "./recipes/honey-and-raisin-corn-flake-cups.html",
+    "image": "./static/images/honey_and_raisin_cornflake_cups.jpg",
+    "ingredients": "Corn Flakes, Butter, Honey, Raisins",
+    "flavor": "sweet"
+    },
+    {
+    "title": "Yin Yeung Fried Rice (鸳鸯炒饭)",
+    "content_type": "Recipe",
+    "url": "./recipes/yin-yeung-fried-rice.html",
+    "image": "./static/images/yin_yeung_fried_rice.jpg",
+    "ingredients": "white rice, eggs, salt, olive oil, chicken breast, soy sauce, oyster sauce, sesame oil, yellow onion, tomato paste, sugar, chicken stock",
+    "flavor": "umami, savory, salty"
+    },
+    {
+    "title": "Black Pepper Cream Sauce",
+    "content_type": "Recipe",
+    "url": "./recipes/black-pepper-cream-sauce.html",
+    "image": "./static/images/black_pepper_cream_sauce.jpg",
+    "ingredients": "oyster sauce, dark soy sauce, light soy sauce, Worcestershire sauce, heavy cream, black pepper",
+    "flavor": "umami, savory, salty"
+    },
+    {
+    "title": "Pineapple Tarts",
+    "content_type": "Recipe",
+    "url": "./recipes/pineapple-tarts.html",
+    "image": "./static/images/pineapple_tarts.jpg",
+    "ingredients": "Pineapple, Sugar, Cinnamon, Butter, Egg, Corn Starch, Flour",
+    "flavor": "sweet"
+    },
+    {
+    "title": "Braised Pork Belly (Taiwanese Style)",
+    "content_type": "Recipe",
+    "url": "./recipes/braised-pork-belly.html",
+    "image": "./static/images/braised_pork_belly.JPG",
+    "ingredients": "pork belly, shallot oil, garlic, soy sauce, dark soy sauce, thick soy sauce, five spice powder, cooking wine, sugar",
+    "flavor": "umami, savory, salty"
+    },
+    {
+    "title": "Chayote Squash Soup Broth",
+    "content_type": "Recipe",
+    "url": "./recipes/chayote-squash-soup-broth.html",
+    "image": "./static/images/soup_broth_after.jpg",
+    "ingredients": "Chayote Squash, Carrots, Honey Dates, Pork Bones, Goji Berries",
+    "flavor": "umami, savory, salty"
+    },
+    {
+    "title": "Wok-Charred Lotus Root with Chinese Sausage",
+    "content_type": "Recipe",
+    "url": "./recipes/wok-charred-lotus-root-with-chinese-sausage.html",
+    "image": "./static/images/wok_charred_lotus_root_with_chinese_sausage.jpg",
+    "ingredients": "Chinese Sausage, Lotus Root, Snow Peas, Carrot, Celery, Salt, Sugar, Soy Sauce, Oyster Sauce, Cooking Wine",
+    "flavor": "umami, savory, salty"
+    },
+    {
+    "title": "Shallot Oil",
+    "content_type": "Recipe",
+    "url": "./recipes/shallot-oil.html",
+    "image": "./static/images/shallot_oil.png",
+    "ingredients": "shallot, olive oil",
+    "flavor": "umami, savory, salty"
+    },
+    {
+    "title": "Pan-Fried Sea Bass",
+    "content_type": "Recipe",
+    "url": "./recipes/pan-fried-sea-bass.html",
+    "image": "./static/images/sea_bass.JPG",
+    "ingredients": "fish, Sea Bass, Olive Oil, Salt, Steamed Fish Soy Sauce, Green Onion",
+    "flavor": "umami, savory, salty"
+    }
+]
