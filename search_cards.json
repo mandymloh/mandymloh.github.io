@@ -1,5 +1,13 @@
 [
     {
+    "title": "Arroz Negro (Squid Ink Rice) with Grilled Shrimp and Linguica",
+    "content_type": "Recipe",
+    "url": "./recipes/squid-ink-rice-with-grilled-shrimp-and-linguica.html",
+    "image": "./static/images/Arroz_Negro_Squid_Ink_Rice_with_Grilled_Linguica_and_Shrimp_1.jpg",
+    "ingredients": "fish, Sea Bass, Olive Oil, Salt, Steamed Fish Soy Sauce, Green Onion",
+    "flavor": "paella rice, squid ink, cuttlefish ink, shallot, olive oil, shrimp, salt, pepper, saffron, spanish, seafood, dinner"
+    },
+    {
     "title": "Sesame Spinach Noodles",
     "content_type": "Recipe",
     "url": "./recipes/sesame-spinach-noodles.html",
