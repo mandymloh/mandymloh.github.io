@@ -30,6 +30,25 @@
 
   <body>
 
+    <div class="bs-canvas-overlay bs-canvas-anim bg-dark position-fixed w-100 h-100"></div>
+
+    <!-- Non-pushable content.
+    <nav class="navbar">
+    </nav> -->
+    
+    <!-- Off-canvas sidebar markup, left/right or both. -->
+    <div id="bs-canvas-left" class="bs-canvas bs-canvas-anim bs-canvas-left position-fixed bg-light h-100">
+        <!-- <header class="bs-canvas-header p-3 bg-success">
+            <h4 class="d-inline-block text-light mb-0">Canvas Header</h4>
+            
+        </header>
+        <div class="bs-canvas-content px-3 py-5">
+            ...
+        </div> -->
+        <a href="./index.html"><img src="../static/images/logo.PNG" alt="Flavor to Taste logo" width="60" height="48" style="display: block; margin-left: auto; margin-right: auto;"></a>
+        <button type="button" class="bs-canvas-close btn-close close pull-right" aria-label="Close" style="padding-top: 40px; padding-right: 40px;"><span aria-hidden="true" class="text-light"></span></button>
+    </div>
+
     <header>
 
       <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190762842-1"></script>
@@ -52,17 +71,16 @@
       <nav class="navbar sticky-top navbar-custom" style="border-radius: 5px !important; height: 100px; top: 40px">
         <div class="container-fluid">
         <a class="navbar-brand" href="https://flavortotaste.com">
-            <img src="../static/images/logo.PNG" alt="Flavor to Taste logo" width="60" height="48">
+            <button class="btn bs-offset-main bs-canvas-anim" type="button" data-toggle="canvas" data-target="#bs-canvas-left" aria-expanded="false" aria-controls="bs-canvas-left" style="font-size: 30px; padding-left: 7px;">&#9776;</button>
+            <a href="./index.html"><img src="../static/images/logo.PNG" alt="Flavor to Taste logo" width="60" height="48" style="display: block; margin-left: auto; margin-right: auto;"></a>
             <div>
                 <a href="./search.html" style="text-align: right !important; padding-right: 10px;"><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" class="bi bi-search" viewBox="0 0 16 16" style="text-align: right !important;">
                     <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
                 </svg></a>
-                <a href="../forms/contact.html"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" class="bi bi-envelope" viewBox="0 0 16 16">
+                <a href="../forms/contact.html"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" class="bi bi-envelope" viewBox="0 0 16 16" style="padding-right: 10px;">
                   <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2zm13 2.383l-4.758 2.855L15 11.114v-5.73zm-.034 6.878L9.271 8.82 8 9.583 6.728 8.82l-5.694 3.44A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.739zM1 11.114l4.758-2.876L1 5.383v5.73z"/>
                 </svg></a>
-                <!-- <a href="../forms/contact.html"><button type="button" class="btn btn-dark pull-right !important" style="background-color: #c9583d; border-color: #c9583d; opacity: 0.7">Contact</button></a> -->
             </div>
-            
         </a>
         </div>
       </nav>
@@ -72,18 +90,22 @@
       <div class="row mb-2">
 
         <div class="col-md-6">
-          <a href="./recipes/sesame-spinach-noodles.html" style = "text-decoration: none; color: black;">
+          <!-- <a href="./recipes/sesame-spinach-noodles.html" style = "text-decoration: none; color: black;"> -->
             <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative" style = "border-color: #e8d6d6 !important; box-shadow: 0 2px 5px 0 rgba(232, 214, 214, 1), 0 5px 15px 0 rgba(232, 214, 214,.1) !important;">
               <div class="col p-4 d-flex flex-column position-static" style="width: 50%">
                 <strong class="d-inline-block mb-2 text-primary" style="color: #c95b3d !important;">Recipe</strong>
                 <h5 class="mb-0" style="padding-right: 10px; z-index: 1">Sesame Spinach Noodles</h5>
                 <hr style = "color: #c95b3d !important; width: 80%;">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-share" viewBox="0 0 16 16" style="position: absolute; bottom: 25px; left: 25px;">
+                  <path d="M13.5 1a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zM11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5zm-8.5 4a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm11 5.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/>
+                </svg>
               </div>
               <div class="col-auto d-lg-block" style="width: 50%">
                 <img class = "pull-right" src="./static/images/Sesame_Spinach_Noodles_1.jpg" alt="Plated sesame spinach noodles, topped with ground soy sauce chicken and garnished with greens" width="200" height="250">
               </div>
             </div>
-          </a> 
+
+          <!-- </a>  -->
         </div>
 
         <div class="col-md-6">
@@ -375,6 +397,7 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="./static/js/sidebar.js"></script>
 
   </body>
 
