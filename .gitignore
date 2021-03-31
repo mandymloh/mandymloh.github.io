@@ -1,0 +1,5 @@
+.vscode/
+.ipynb_checkpoints/
+*.ipynb
+sample_cards.csv
+stylesheet-updates.txt
