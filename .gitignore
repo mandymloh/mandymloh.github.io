@@ -1,5 +1,5 @@
 .vscode/
 .ipynb_checkpoints/
+misc/
+notebooks/
 *.ipynb
-sample_cards.csv
-stylesheet-updates.txt
