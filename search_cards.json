@@ -1,5 +1,13 @@
 [
     {
+    "title": "Chrysanthemum Flower Tea with Red Dates and Goji Berries",
+    "content_type": "Recipe",
+    "url": "./recipes/chrysanthemum-flower-tea.html",
+    "image": "./static/images/Chrysanthemum_Tea_with_Red_Dates_and_Goji_Berries_1.jpg",
+    "ingredients": "tea, goji berries, honey, red dates, chrysanthemum flower, floral tea, drink",
+    "flavor": "sweet"
+    },
+    {
     "title": "Arroz Negro (Squid Ink Rice) with Grilled Shrimp and Linguica",
     "content_type": "Recipe",
     "url": "./recipes/squid-ink-rice-with-grilled-shrimp-and-linguica.html",
