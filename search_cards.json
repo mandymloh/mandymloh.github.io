@@ -1,5 +1,13 @@
 [
     {
+    "title": "Strawberry, Lemon, and Mint Detox Water",
+    "content_type": "Recipe",
+    "url": "./recipes/strawberry-lemon-mint-detox-water.html",
+    "image": "./static/images/Strawberry_Lemon_and_Mint_Detox_Water_1.jpg",
+    "ingredients": "strawberries, lemon, mint, water, detox, drink, cold, strawberry",
+    "flavor": "sweet"
+    },
+    {
     "title": "Chrysanthemum Flower Tea",
     "content_type": "Recipe",
     "url": "./recipes/chrysanthemum-flower-tea.html",
