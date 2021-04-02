@@ -38,12 +38,10 @@
 
     <div class="bs-canvas-overlay bs-canvas-anim bg-dark position-fixed w-100 h-100"></div>
 
-    <!-- Non-pushable content.
-    <nav class="navbar">
-    </nav> -->
+    <nav class="navbar"></nav>
     
     <!-- Off-canvas sidebar markup, left/right or both. -->
-    <div id="bs-canvas-left" class="bs-canvas bs-canvas-anim bs-canvas-left position-fixed bg-light h-100">
+    <div id="bs-canvas-left" class="bs-canvas bs-canvas-anim bs-canvas-left position-fixed bg-light h-100" style="opacity: 0.6;">
         <!-- <header class="bs-canvas-header p-3 bg-success">
             <h4 class="d-inline-block text-light mb-0">Canvas Header</h4>
             
@@ -51,8 +49,18 @@
         <div class="bs-canvas-content px-3 py-5">
             ...
         </div> -->
-        <a href="./index.html"><img src="../static/images/logo.PNG" alt="Flavor to Taste logo" width="60" height="48" style="display: block; margin-left: auto; margin-right: auto;"></a>
-        <button type="button" class="bs-canvas-close btn-close close pull-right" aria-label="Close" style="padding-top: 40px; padding-right: 40px;"><span aria-hidden="true" class="text-light"></span></button>
+        <div>
+          <a href="./index.html"><img src="../static/images/logo.PNG" alt="Flavor to Taste logo" width="60" height="48" style="display: block; margin-left: auto; margin-right: auto; position: absolute; top: 15px; left: 16px"></a>
+          <button type="button" class="bs-canvas-close btn-close close pull-right" aria-label="Close" style="padding-top: 40px; padding-right: 40px;"><span aria-hidden="true" class="text-light"></span></button>
+        </div>
+        
+        <hr style = "color: #c95b3d !important; width: 90%; position: absolute; top: 60px; left: 16px">
+        <div style="position: absolute; top: 100px; left: 16px;">
+          <a href="" style="text-decoration: none; color: #c95b3d"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-pen" viewBox="0 0 16 16" style="padding-right: 7px;">
+            <path d="m13.498.795.149-.149a1.207 1.207 0 1 1 1.707 1.708l-.149.148a1.5 1.5 0 0 1-.059 2.059L4.854 14.854a.5.5 0 0 1-.233.131l-4 1a.5.5 0 0 1-.606-.606l1-4a.5.5 0 0 1 .131-.232l9.642-9.642a.5.5 0 0 0-.642.056L6.854 4.854a.5.5 0 1 1-.708-.708L9.44.854A1.5 1.5 0 0 1 11.5.796a1.5 1.5 0 0 1 1.998-.001zm-.644.766a.5.5 0 0 0-.707 0L1.95 11.756l-.764 3.057 3.057-.764L14.44 3.854a.5.5 0 0 0 0-.708l-1.585-1.585z"/>
+          </svg>Blog</a>
+        </div>
+
     </div>
 
     <header>
