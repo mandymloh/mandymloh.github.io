@@ -41,7 +41,7 @@ const displayRecipes = (recipes) => {
                         <hr style = "color: #c95b3d !important; width: 80%;">
                     </div>
                     <div class="col-auto d-lg-block" style="width: 50%">
-                        <img class = "pull-right" src="${recipe.image}" alt="Plated sesame spinach noodles, topped with ground soy sauce chicken and garnished with greens" width="200" height="250">
+                        <img class = "pull-right" src="${recipe.image}" alt="Recipe image" width="200" height="250">
                     </div>
                     </div>
                 </a> 

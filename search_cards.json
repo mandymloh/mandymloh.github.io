@@ -1,5 +1,13 @@
 [
     {
+    "title": "Honey Milk Papaya Boat",
+    "content_type": "Recipe",
+    "url": "./recipes/honey-milk-papaya-boat.html",
+    "image": "./static/images/Golden_Papaya_Milk_1.jpg",
+    "ingredients": "papaya, milk, honey, dessert",
+    "flavor": "sweet"
+    },
+    {
     "title": "Strawberry, Lemon, and Mint Detox Water",
     "content_type": "Recipe",
     "url": "./recipes/strawberry-lemon-mint-detox-water.html",
