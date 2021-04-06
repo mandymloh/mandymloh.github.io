@@ -1,5 +1,13 @@
 [
     {
+    "title": "Japanese Grilled Pork Belly Skewer",
+    "content_type": "Recipe",
+    "url": "./recipes/japanese-grilled-pork-belly-skewers.html",
+    "image": "./static/images/Japanese Grilled Pork Belly Skewers and Miso Glazed Eggplant 1.jpg",
+    "ingredients": "pork belly, skewers, eggplant, green onion, grilled, japanese, dinner, lunch",
+    "flavor": "savory, umami, salty"
+    },
+    {
     "title": "Honey Milk Papaya Boat",
     "content_type": "Recipe",
     "url": "./recipes/honey-milk-papaya-boat.html",
