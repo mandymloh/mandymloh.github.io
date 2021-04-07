@@ -1,5 +1,13 @@
 [
     {
+    "title": "Bak Kut Teh (Spiced Pork Rib Soup)",
+    "content_type": "Recipe",
+    "url": "./recipes/bak-kut-teh.html",
+    "image": "./static/images/Bak_Kut_Teh_Pork_Rib_Soup.jpg",
+    "ingredients": "pork, soup, herbal, malaysian, singaporean, dinner, lunch",
+    "flavor": "savory, salty"
+    },
+    {
     "title": "Japanese Grilled Pork Belly Skewer",
     "content_type": "Recipe",
     "url": "./recipes/japanese-grilled-pork-belly-skewers.html",
