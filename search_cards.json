@@ -1,5 +1,13 @@
 [
     {
+    "title": "Taiwanese Fried Pork Chop",
+    "content_type": "Recipe",
+    "url": "./recipes/taiwanese-fried-pork-chop.html",
+    "image": "./static/images/Taiwanese_Fried_Pork_Chop_1.jpg",
+    "ingredients": "pork chop, fried, taiwanese, dinner, lunch",
+    "flavor": "savory, salty"
+    },
+    {
     "title": "Bak Kut Teh (Spiced Pork Rib Soup)",
     "content_type": "Recipe",
     "url": "./recipes/bak-kut-teh.html",
