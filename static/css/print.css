@@ -1,0 +1,30 @@
+@media print {
+
+    .blog-post-meta,
+    .blog-post-description,
+    .blog-footer,
+    .carousel,
+    .alert,
+    .navbar {
+        display: none;
+    }
+
+    .row::after {
+        content: url('../images/shrimp_cutlet_qrcode.png');
+        page-break-inside: avoid;
+    }
+
+    .blog-post-title {
+        color: #c95b3d;
+        margin-bottom: 20px;
+    }
+
+    .img-thumbnail {
+        width: 40%;
+    }
+/* 
+    @page {
+        size: A3;
+    } */
+
+}
