@@ -5,3 +5,5 @@ notebooks/
 *.ipynb
 newLandingPage.html
 subscriptionPage.html
+shell.html
+template_engine.js
