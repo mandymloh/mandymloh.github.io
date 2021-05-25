@@ -1,5 +1,13 @@
 [
     {
+    "title": "Smoked Beer Can Chicken",
+    "content_type": "Recipe",
+    "url": "./recipes/smoked-beer-can-chicken.html",
+    "image": "./static/images/Smoked_Beer_Can_Chicken_1_400x533.jpg",
+    "ingredients": "pellet, wood, smoked, grill, beer can, chicken, american",
+    "flavor": "umami, savory, salty"
+    },
+    {
     "title": "Smoked Ribeye Steak",
     "content_type": "Recipe",
     "url": "./recipes/smoked-ribeye-steak.html",
