@@ -1,5 +1,13 @@
 [
     {
+    "title": "Homemade Chocolate Chip Cookies",
+    "content_type": "Recipe",
+    "url": "./recipes/homemade-chocolate-chip-cookies.html",
+    "image": "./static/images/Homemade_Chocolate_Chip_Cookies_1_400x533.jpg",
+    "ingredients": "cookies, chocolate chip, dessert, american",
+    "flavor": "sweet"
+    },
+    {
     "title": "Taiwanese Fried Pork Chop",
     "content_type": "Recipe",
     "url": "./recipes/taiwanese-fried-pork-chop.html",
