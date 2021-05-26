@@ -1,5 +1,13 @@
 [
     {
+    "title": "One Pot Chicken and Linguica Rice",
+    "content_type": "Recipe",
+    "url": "./recipes/one-pot-chicken-and-linguica-rice.html",
+    "image": "./static/images/One_Pot_Chicken_and_Linguica_Rice_1_400x528.jpg",
+    "ingredients": "chicken, linguica, rice, one pot, lunch, dinner",
+    "flavor": "umami, savory, salty"
+    },
+    {
     "title": "Cheesecake Cookie Bars",
     "content_type": "Recipe",
     "url": "./recipes/cheesecake-cookie-bars.html",
@@ -12,7 +20,7 @@
     "content_type": "Recipe",
     "url": "./recipes/smoked-ribeye-steak.html",
     "image": "./static/images/Smoked_Ribeye_Steak_1_400x533.jpg",
-    "ingredients": "pellet, wood, smoked, grill, ribeye, steak, american",
+    "ingredients": "pellet, wood, smoked, grill, ribeye, steak, american, lunch, dinner",
     "flavor": "umami, savory, salty"
     },
     {
@@ -28,7 +36,7 @@
     "content_type": "Recipe",
     "url": "./recipes/smoked-beer-can-chicken.html",
     "image": "./static/images/Smoked_Beer_Can_Chicken_1_400x533.jpg",
-    "ingredients": "pellet, wood, smoked, grill, beer can, chicken, american",
+    "ingredients": "pellet, wood, smoked, grill, beer can, chicken, american, lunch, dinner",
     "flavor": "umami, savory, salty"
     },
     {
