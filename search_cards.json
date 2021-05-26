@@ -1,5 +1,13 @@
 [
     {
+    "title": "Cheesecake Cookie Bars",
+    "content_type": "Recipe",
+    "url": "./recipes/cheesecake-cookie-bars.html",
+    "image": "./static/images/Cheesecake_Cookie_Bars_1_400x533.jpg",
+    "ingredients": "cheesecake, cookie, bars, dessert, american",
+    "flavor": "sweet"
+    },
+    {
     "title": "Smoked Ribeye Steak",
     "content_type": "Recipe",
     "url": "./recipes/smoked-ribeye-steak.html",
