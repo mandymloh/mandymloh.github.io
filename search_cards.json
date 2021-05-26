@@ -1,5 +1,13 @@
 [
     {
+    "title": "Smoked Ribeye Steak",
+    "content_type": "Recipe",
+    "url": "./recipes/smoked-ribeye-steak.html",
+    "image": "./static/images/Smoked_Ribeye_Steak_1_400x533.jpg",
+    "ingredients": "pellet, wood, smoked, grill, ribeye, steak, american",
+    "flavor": "umami, savory, salty"
+    },
+    {
     "title": "Homemade Chocolate Chip Cookies",
     "content_type": "Recipe",
     "url": "./recipes/homemade-chocolate-chip-cookies.html",
