@@ -180,3 +180,18 @@ h1{
 #carouselExampleIndicators {
   overflow: hidden;
 }
+
+#skip-button:active:focus {
+  /* color: #ffffff;  */
+  background-color: #e8d6d6; 
+  border-color: #e8d6d6;
+  box-shadow: none;
+}
+
+#skip-button:hover {
+  /* color: #ffffff;  */
+  background-color: #e8d6d6; 
+  border-color: #e8d6d6;
+  box-shadow: none;
+}
+
