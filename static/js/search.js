@@ -32,17 +32,13 @@ const displayRecipes = (recipes) => {
     const htmlString = recipes
         .map((recipe) => {
             return `
-            <div class="col-md-6">
+            <div class="col-md-4">
                 <a href="${recipe.url}" style = "text-decoration: none; color: black;">
-                    <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative" style = "border-color: #e8d6d6 !important; box-shadow: 0 2px 5px 0 rgba(232, 214, 214, 1), 0 5px 15px 0 rgba(232, 214, 214,.1) !important;">
-                    <div class="col p-4 d-flex flex-column position-static" style="width: 50%">
-                        <strong class="d-inline-block mb-2 text-primary" style="color: #c95b3d !important;">Recipe</strong>
-                        <h5 class="mb-0" style="padding-right: 10px; z-index: 1; word-wrap: break-word; hyphens: auto">${recipe.title}</h5>
-                        <hr style = "color: #c95b3d !important; width: 80%;">
-                    </div>
-                    <div class="col-auto d-lg-block" style="width: 50%">
-                        <img class = "pull-right" src="${recipe.image}" alt="Recipe image" width="200" height="250">
-                    </div>
+                    <div class="row g-0 border rounded flex-md-row mb-4 shadow-sm position-relative" style = "border-color: #E3E8E6 !important; box-shadow: 0 2px 5px 0 rgba(227, 232, 230, 1), 0 5px 15px 0 rgba(227, 232, 230,.1) !important;">
+                        <img class = "pull-right img-fluid" src="${recipe.image}" alt="Recipe image" style = "max-width: 100%; height: auto">
+                        <div style="position: absolute; top: 65%; width: 100%">
+                          <p style="font-size: 30px; color: white; text-align: center; font-weight: 900;">${recipe.title.toUpperCase()}</p>
+                        </div>
                     </div>
                 </a> 
             </div>
