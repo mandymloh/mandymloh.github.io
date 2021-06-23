@@ -35,7 +35,7 @@ const displayRecipes = (recipes) => {
             <div class="col-md-4">
                 <a href="${recipe.url}" style = "text-decoration: none; color: black;">
                     <div class="row g-0 border rounded flex-md-row mb-4 shadow-sm position-relative" style = "border-color: #E3E8E6 !important; box-shadow: 0 2px 5px 0 rgba(227, 232, 230, 1), 0 5px 15px 0 rgba(227, 232, 230,.1) !important;">
-                        <img class = "pull-right img-fluid" src="${recipe.image}" alt="Recipe image" style = "max-width: 100%; height: auto">
+                        <img class = "pull-right img-fluid" src="${recipe.image}" alt="Recipe image" style = "max-width: 100%; height: auto; border-radius: 10%;">
                         <div style="position: absolute; top: 10%; width: 90%">
                           <p style="font-size: 30px; color: white; text-shadow: 1px 1px 1px #000, 1px 1px 1px #000, 1px 1px 1px #000, 1px 1px 1px #000; text-align: center; font-weight: 900; padding-left: 10%">${recipe.title.toUpperCase()}</p>
                         </div>
