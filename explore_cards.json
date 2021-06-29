@@ -4,7 +4,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/164622/bubble-and-squeak",
        "image": "https://www.themealdb.com/images/media/meals/xusqvw1511638311.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -12,7 +12,7 @@
        "content_type": "Recipe",
        "url": "https://www.nyonyacooking.com/recipes/apam-balik~SJ5WuvsDf9WQ",
        "image": "https://www.themealdb.com/images/media/meals/adxcbq1619787919.jpg",
-       "keywords": "malaysian",
+       "keywords": "malaysian, asian",
        "flavor": ""
     },
     {
@@ -20,7 +20,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/778642/apple-and-blackberry-crumble",
        "image": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -28,7 +28,7 @@
        "content_type": "Recipe",
        "url": "http://www.curiousnut.com/roasted-spiced-chicken-ayam-percik/",
        "image": "https://www.themealdb.com/images/media/meals/020z181619788503.jpg",
-       "keywords": "malaysian",
+       "keywords": "malaysian, asian",
        "flavor": ""
     },
     {
@@ -36,7 +36,7 @@
        "content_type": "Recipe",
        "url": "http://www.vegrecipesofindia.com/baingan-bharta-recipe-punjabi-baingan-bharta-recipe/",
        "image": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
-       "keywords": "indian",
+       "keywords": "indian, asian",
        "flavor": ""
     },
     {
@@ -44,7 +44,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/7745/baked-salmon-with-fennel-and-tomatoes",
        "image": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -52,7 +52,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/banana-pancakes",
        "image": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -60,7 +60,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/1120657/battenberg-cake",
        "image": "https://www.themealdb.com/images/media/meals/ywwrsp1511720277.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -68,7 +68,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/339607/bean-and-sausage-hotpot",
        "image": "https://www.themealdb.com/images/media/meals/vxuyrx1511302687.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -76,7 +76,7 @@
        "content_type": "Recipe",
        "url": "https://www.tastemade.com/videos/beavertails",
        "image": "https://www.themealdb.com/images/media/meals/ryppsv1511815505.jpg",
-       "keywords": "canadian",
+       "keywords": "canadian, western",
        "flavor": ""
     },
     {
@@ -84,7 +84,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/beef_and_mustard_pie_58002",
        "image": "https://www.themealdb.com/images/media/meals/sytuqu1511553755.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -92,7 +92,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/beef_and_oyster_pie_65230",
        "image": "https://www.themealdb.com/images/media/meals/wrssvt1511556563.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -100,7 +100,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/5032/beef-bourguignon",
        "image": "https://www.themealdb.com/images/media/meals/vtqxtu1511784197.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -108,7 +108,7 @@
        "content_type": "Recipe",
        "url": "http://www.simplyrecipes.com/recipes/beef_brisket_pot_roast/",
        "image": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -116,7 +116,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/beefstewwithdumpling_87333",
        "image": "https://www.themealdb.com/images/media/meals/uyqrrv1511553350.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -124,7 +124,7 @@
        "content_type": "Recipe",
        "url": "https://sueandgambo.com/pages/beef-lo-mein",
        "image": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
-       "keywords": "chinese",
+       "keywords": "chinese, asian",
        "flavor": ""
     },
     {
@@ -132,7 +132,7 @@
        "content_type": "Recipe",
        "url": "https://rasamalaysia.com/beef-rendang-recipe-rendang-daging/",
        "image": "https://www.themealdb.com/images/media/meals/bc8v651619789840.jpg",
-       "keywords": "malaysian",
+       "keywords": "malaysian, asian",
        "flavor": ""
     },
     {
@@ -148,7 +148,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/9020/best-yorkshire-puddings",
        "image": "https://www.themealdb.com/images/media/meals/ssrrrs1503664277.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -156,7 +156,7 @@
        "content_type": "Recipe",
        "url": "http://www.goodtoknow.co.uk/recipes/164868/Gordon-Ramsay-s-beef-Wellington",
        "image": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -164,7 +164,7 @@
        "content_type": "Recipe",
        "url": "https://www.delicious.com.au/recipes/finally-recipe-worlds-top-selling-burger-big-mac/5221ee4a-279e-4a0b-8629-f442dc46822e",
        "image": "https://www.themealdb.com/images/media/meals/urzj1d1587670726.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -172,7 +172,7 @@
        "content_type": "Recipe",
        "url": "https://www.allrecipes.com/recipe/138131/bigos-hunters-stew/",
        "image": "https://www.themealdb.com/images/media/meals/md8w601593348504.jpg",
-       "keywords": "polish",
+       "keywords": "polish, european",
        "flavor": ""
     },
     {
@@ -180,7 +180,7 @@
        "content_type": "Recipe",
        "url": "https://www.holland.com/global/tourism/information/traditional-dutch-food/bitterballen.htm",
        "image": "https://www.themealdb.com/images/media/meals/lhqev81565090111.jpg",
-       "keywords": "dutch",
+       "keywords": "dutch, european, western",
        "flavor": ""
     },
     {
@@ -188,7 +188,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/blackberry_fool_with_11859",
        "image": "https://www.themealdb.com/images/media/meals/rpvptu1511641092.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -196,7 +196,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/5056/boulangre-potatoes",
        "image": "https://www.themealdb.com/images/media/meals/qywups1511796761.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -204,7 +204,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/boxty-bacon-eggs-tomatoes",
        "image": "https://www.themealdb.com/images/media/meals/naqyel1608588563.jpg",
-       "keywords": "irish",
+       "keywords": "irish, european, western",
        "flavor": ""
     },
     {
@@ -220,7 +220,7 @@
        "content_type": "Recipe",
        "url": "https://cooking.nytimes.com/recipes/1018529-coq-au-vin",
        "image": "https://www.themealdb.com/images/media/meals/xqwwpy1483908697.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -228,7 +228,7 @@
        "content_type": "Recipe",
        "url": "http://www.vodkaandbiscuits.com/2014/03/06/bangin-breakfast-potatoes/",
        "image": "https://www.themealdb.com/images/media/meals/1550441882.jpg",
-       "keywords": "canadian",
+       "keywords": "canadian, western",
        "flavor": ""
     },
     {
@@ -236,7 +236,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/1803634/brie-wrapped-in-prosciutto-and-brioche",
        "image": "https://www.themealdb.com/images/media/meals/qqpwsy1511796276.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -244,7 +244,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/1940679/broccoli-and-stilton-soup",
        "image": "https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -252,7 +252,7 @@
        "content_type": "Recipe",
        "url": "http://www.geniuskitchen.com/recipe/authentic-jamaican-brown-stew-chicken-347996",
        "image": "https://www.themealdb.com/images/media/meals/sypxpx1515365095.jpg",
-       "keywords": "jamaican",
+       "keywords": "jamaican, afro-caribbean",
        "flavor": ""
     },
     {
@@ -260,7 +260,7 @@
        "content_type": "Recipe",
        "url": "https://thehappyfoodie.co.uk/recipes/ricotta-cake-budino-di-ricotta",
        "image": "https://www.themealdb.com/images/media/meals/1549542877.jpg",
-       "keywords": "italian",
+       "keywords": "italian, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -276,7 +276,7 @@
        "content_type": "Recipe",
        "url": "https://www.africanbites.com/callaloo-jamaican-style/",
        "image": "https://www.themealdb.com/images/media/meals/ussyxw1515364536.jpg",
-       "keywords": "jamaican",
+       "keywords": "jamaican, afro-caribbean",
        "flavor": ""
     },
     {
@@ -284,7 +284,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/1837/canadian-butter-tarts",
        "image": "https://www.themealdb.com/images/media/meals/wpputp1511812960.jpg",
-       "keywords": "canadian",
+       "keywords": "canadian, western",
        "flavor": ""
     },
     {
@@ -292,7 +292,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/classic_carrot_cake_08513",
        "image": "https://www.themealdb.com/images/media/meals/vrspxv1511722107.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -300,7 +300,7 @@
        "content_type": "Recipe",
        "url": "http://allrecipes.co.uk/recipe/40152/cashew-ghoriba-biscuits.aspx",
        "image": "https://www.themealdb.com/images/media/meals/t3r3ka1560461972.jpg",
-       "keywords": "tunisian",
+       "keywords": "tunisian, african, mediterranean",
        "flavor": ""
     },
     {
@@ -308,7 +308,7 @@
        "content_type": "Recipe",
        "url": "https://www.curiouscuisiniere.com/chakchouka/",
        "image": "https://www.themealdb.com/images/media/meals/gpz67p1560458984.jpg",
-       "keywords": "tunisian",
+       "keywords": "tunisian, african, mediterranean",
        "flavor": ""
     },
     {
@@ -316,7 +316,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/chelsea_buns_95015",
        "image": "https://www.themealdb.com/images/media/meals/vqpwrv1511723001.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -324,7 +324,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/chicken-mushroom-hot-pot",
        "image": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -332,7 +332,7 @@
        "content_type": "Recipe",
        "url": "https://www.rivercottage.net/recipes/chicken-basquaise",
        "image": "https://www.themealdb.com/images/media/meals/wruvqv1511880994.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -340,7 +340,7 @@
        "content_type": "Recipe",
        "url": "https://sueandgambo.com/pages/chicken-congee",
        "image": "https://www.themealdb.com/images/media/meals/1529446352.jpg",
-       "keywords": "chinese",
+       "keywords": "chinese, asian",
        "flavor": ""
     },
     {
@@ -348,7 +348,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/13139/onepan-chicken-couscous",
        "image": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg",
-       "keywords": "moroccan",
+       "keywords": "moroccan, african, mediterranean",
        "flavor": ""
     },
     {
@@ -356,7 +356,7 @@
        "content_type": "Recipe",
        "url": "http://twistedfood.co.uk/chicken-fajita-mac-n-cheese/",
        "image": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -364,7 +364,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/creamy_chicken_ham_and_03877",
        "image": "https://www.themealdb.com/images/media/meals/xrrtss1511555269.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -372,7 +372,7 @@
        "content_type": "Recipe",
        "url": "https://norecipes.com/karaage-recipe",
        "image": "https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg",
-       "keywords": "japanese",
+       "keywords": "japanese, asian",
        "flavor": ""
     },
     {
@@ -380,7 +380,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/3146682/chicken-marengo",
        "image": "https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -388,7 +388,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/chicken_parmentier_25434",
        "image": "https://www.themealdb.com/images/media/meals/uwvxpv1511557015.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -396,7 +396,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/griddled-chicken-quinoa-greek-salad",
        "image": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg",
-       "keywords": "greek",
+       "keywords": "greek, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -412,7 +412,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/1269/chilli-prawn-linguine",
        "image": "https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg",
-       "keywords": "italian",
+       "keywords": "italian, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -420,7 +420,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/chinon-apple-tarts",
        "image": "https://www.themealdb.com/images/media/meals/qtqwwu1511792650.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -428,7 +428,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/choc-chip-pecan-pie",
        "image": "https://www.themealdb.com/images/media/meals/rqvwxt1511384809.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -436,7 +436,7 @@
        "content_type": "Recipe",
        "url": "http://www.hemsleyandhemsley.com/recipe/chocolate-avocado-mousse/",
        "image": "https://www.themealdb.com/images/media/meals/uttuxy1511382180.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -444,7 +444,7 @@
        "content_type": "Recipe",
        "url": "http://www.donalskehan.com/recipes/chocolate-caramel-rice-crispy-treats/",
        "image": "https://www.themealdb.com/images/media/meals/1550442508.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -452,7 +452,7 @@
        "content_type": "Recipe",
        "url": "http://www.goodtoknow.co.uk/recipes/536028/chocolate-gateau",
        "image": "https://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -460,7 +460,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/2121648/bestever-chocolate-raspberry-brownies",
        "image": "https://www.themealdb.com/images/media/meals/yypvst1511386427.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -468,7 +468,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/5816/hot-chocolate-souffls-with-chocolate-cream-sauce",
        "image": "https://www.themealdb.com/images/media/meals/twspvx1511784937.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -476,7 +476,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/angela-nilsens-christmas-cake",
        "image": "https://www.themealdb.com/images/media/meals/ldnrm91576791881.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -484,7 +484,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/1826685/christmas-pudding-trifle",
        "image": "https://www.themealdb.com/images/media/meals/r33cud1576791081.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -492,7 +492,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/clam-chowder",
        "image": "https://www.themealdb.com/images/media/meals/rvtvuw1511190488.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -500,7 +500,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/classic-christmas-pudding",
        "image": "https://www.themealdb.com/images/media/meals/1d85821576790598.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -508,7 +508,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/irish-coddled-pork-cider",
        "image": "https://www.themealdb.com/images/media/meals/7vpsfp1608588991.jpg",
-       "keywords": "irish",
+       "keywords": "irish, european, western",
        "flavor": ""
     },
     {
@@ -516,7 +516,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/1913655/coq-au-vin",
        "image": "https://www.themealdb.com/images/media/meals/qstyvs1505931190.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -524,7 +524,7 @@
        "content_type": "Recipe",
        "url": "https://findingtimeforcooking.com/main-dishes/red-lentil-soup-corba/",
        "image": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg",
-       "keywords": "turkish",
+       "keywords": "turkish, arabic, mediterranean, middle-eastern",
        "flavor": ""
     },
     {
@@ -540,7 +540,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/2604646/creamy-tomato-soup",
        "image": "https://www.themealdb.com/images/media/meals/stpuws1511191310.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -548,7 +548,7 @@
        "content_type": "Recipe",
        "url": "https://www.bonappetit.com/columns/cooking-without-recipes/article/kale-cabbage-sausage-weeknight-dinner",
        "image": "https://www.themealdb.com/images/media/meals/st1ifa1583267248.jpg",
-       "keywords": "irish",
+       "keywords": "irish, european, western",
        "flavor": ""
     },
     {
@@ -564,7 +564,7 @@
        "content_type": "Recipe",
        "url": "https://www.instagram.com/p/BO21bpYD3Fu",
        "image": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
-       "keywords": "indian",
+       "keywords": "indian, asian",
        "flavor": ""
     },
     {
@@ -572,7 +572,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/2085/barneys-confit-of-duck",
        "image": "https://www.themealdb.com/images/media/meals/wvpvsu1511786158.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -580,7 +580,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/2155640/dundee-cake",
        "image": "https://www.themealdb.com/images/media/meals/wxyvqq1511723401.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -588,7 +588,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/786659/eccles-cakes",
        "image": "https://www.themealdb.com/images/media/meals/wtqrqw1511639627.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -596,7 +596,7 @@
        "content_type": "Recipe",
        "url": "https://sueandgambo.com/pages/egg-drop-soup",
        "image": "https://www.themealdb.com/images/media/meals/1529446137.jpg",
-       "keywords": "chinese",
+       "keywords": "chinese, asian",
        "flavor": ""
     },
     {
@@ -604,7 +604,7 @@
        "content_type": "Recipe",
        "url": "https://www.food.com/recipe/egyptian-faatah-rice-meat-with-crispy-bread-on-bottom-194764",
        "image": "https://www.themealdb.com/images/media/meals/rlwcc51598734603.jpg",
-       "keywords": "egyptian",
+       "keywords": "egyptian, mediterranean, african, arabic, middle-eastern",
        "flavor": ""
     },
     {
@@ -612,7 +612,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/stressfreefullenglis_67721",
        "image": "https://www.themealdb.com/images/media/meals/utxryw1511721587.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -620,7 +620,7 @@
        "content_type": "Recipe",
        "url": "https://www.africanbites.com/jamaican-escovitched-fish/",
        "image": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
-       "keywords": "jamaican",
+       "keywords": "jamaican, afro-caribbean",
        "flavor": ""
     },
     {
@@ -628,7 +628,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/fennel-dauphinoise",
        "image": "https://www.themealdb.com/images/media/meals/ytttsv1511798734.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -636,7 +636,7 @@
        "content_type": "Recipe",
        "url": "https://amiraspantry.com/egyptian-feteer-meshaltet/",
        "image": "https://www.themealdb.com/images/media/meals/9f4z6v1598734293.jpg",
-       "keywords": "egyptian",
+       "keywords": "egyptian, mediterranean, african, arabic, middle-eastern",
        "flavor": ""
     },
     {
@@ -644,7 +644,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/fettucine-alfredo",
        "image": "https://www.themealdb.com/images/media/meals/uquqtu1511178042.jpg",
-       "keywords": "italian",
+       "keywords": "italian, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -652,7 +652,7 @@
        "content_type": "Recipe",
        "url": "https://www.olivemagazine.com/recipes/fish-and-seafood/fish-fofos/",
        "image": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
-       "keywords": "portuguese",
+       "keywords": "portuguese, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -660,7 +660,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/532640/summer-fish-stew-with-rouille",
        "image": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -668,7 +668,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/1669/ultimate-french-omelette",
        "image": "https://www.themealdb.com/images/media/meals/yvpuuy1511797244.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -676,7 +676,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/3020694/french-onion-soup",
        "image": "https://www.themealdb.com/images/media/meals/xvrrux1511783685.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -684,7 +684,7 @@
        "content_type": "Recipe",
        "url": "https://www.epicurious.com/recipes/food/views/ful-medames-352993",
        "image": "https://www.themealdb.com/images/media/meals/lvn2d51598732465.jpg",
-       "keywords": "egyptian",
+       "keywords": "egyptian, mediterranean, african, arabic, middle-eastern",
        "flavor": ""
     },
     {
@@ -692,7 +692,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/stressfreefullenglis_67721",
        "image": "https://www.themealdb.com/images/media/meals/sqrtwu1511721265.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -700,7 +700,7 @@
        "content_type": "Recipe",
        "url": "https://www.skinnytaste.com/general-tsos-chicken/",
        "image": "https://www.themealdb.com/images/media/meals/1529444113.jpg",
-       "keywords": "chinese",
+       "keywords": "chinese, asian",
        "flavor": ""
     },
     {
@@ -708,7 +708,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/gigantes-plaki",
        "image": "https://www.themealdb.com/images/media/meals/b79r6f1585566277.jpg",
-       "keywords": "greek",
+       "keywords": "greek, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -716,7 +716,7 @@
        "content_type": "Recipe",
        "url": "https://www.allrecipes.com/recipe/234975/golabki-stuffed-cabbage-rolls/",
        "image": "https://www.themealdb.com/images/media/meals/q8sp3j1593349686.jpg",
-       "keywords": "polish",
+       "keywords": "polish, european",
        "flavor": ""
     },
     {
@@ -724,7 +724,7 @@
        "content_type": "Recipe",
        "url": "https://leitesculinaria.com/103647/recipes-grilled-mac-and-cheese-sandwich.html",
        "image": "https://www.themealdb.com/images/media/meals/xutquv1505330523.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -732,7 +732,7 @@
        "content_type": "Recipe",
        "url": "https://www.olivemagazine.com/recipes/fish-and-seafood/grilled-portuguese-sardines/",
        "image": "https://www.themealdb.com/images/media/meals/lpd4wy1614347943.jpg",
-       "keywords": "portuguese",
+       "keywords": "portuguese, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -740,7 +740,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/ham-hock-colcannon",
        "image": "https://www.themealdb.com/images/media/meals/n41ny81608588066.jpg",
-       "keywords": "irish",
+       "keywords": "irish, european, western",
        "flavor": ""
     },
     {
@@ -748,7 +748,7 @@
        "content_type": "Recipe",
        "url": "http://chef-raphael.com/home-made-mandazi-recipe/#more-106",
        "image": "https://www.themealdb.com/images/media/meals/thazgm1555350962.jpg",
-       "keywords": "kenyan",
+       "keywords": "kenyan, african",
        "flavor": ""
     },
     {
@@ -756,7 +756,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/honey-yogurt-cheesecake",
        "image": "https://www.themealdb.com/images/media/meals/y2irzl1585563479.jpg",
-       "keywords": "greek",
+       "keywords": "greek, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -764,7 +764,7 @@
        "content_type": "Recipe",
        "url": "https://sueandgambo.com/pages/chinese-hot-and-sour-soup",
        "image": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
-       "keywords": "chinese",
+       "keywords": "chinese, asian",
        "flavor": ""
     },
     {
@@ -772,7 +772,7 @@
        "content_type": "Recipe",
        "url": "http://www.ottolenghi.co.uk/recipes/meat/irish-stew-shop",
        "image": "https://www.themealdb.com/images/media/meals/sxxpst1468569714.jpg",
-       "keywords": "irish",
+       "keywords": "irish, european, western",
        "flavor": ""
     },
     {
@@ -780,7 +780,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/13354/jam-rolypoly",
        "image": "https://www.themealdb.com/images/media/meals/ysqupp1511640538.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -788,7 +788,7 @@
        "content_type": "Recipe",
        "url": "https://www.thespruce.com/jamaican-beef-patties-recipe-2137762",
        "image": "https://www.themealdb.com/images/media/meals/wsqqsw1515364068.jpg",
-       "keywords": "jamaican",
+       "keywords": "jamaican, afro-caribbean",
        "flavor": ""
     },
     {
@@ -796,7 +796,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/japanese-rice-gohan",
        "image": "https://www.themealdb.com/images/media/meals/kw92t41604181871.jpg",
-       "keywords": "japanese",
+       "keywords": "japanese, asian",
        "flavor": ""
     },
     {
@@ -804,7 +804,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/japanese-katsudon",
        "image": "https://www.themealdb.com/images/media/meals/d8f6qx1604182128.jpg",
-       "keywords": "japanese",
+       "keywords": "japanese, asian",
        "flavor": ""
     },
     {
@@ -812,7 +812,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/2369635/jerk-chicken-with-rice-and-peas",
        "image": "https://www.themealdb.com/images/media/meals/tytyxu1515363282.jpg",
-       "keywords": "jamaican",
+       "keywords": "jamaican, afro-caribbean",
        "flavor": ""
     },
     {
@@ -820,7 +820,7 @@
        "content_type": "Recipe",
        "url": "http://allrecipes.co.uk/recipe/12294/kafteji--tunisian-fried-vegetables-.aspx",
        "image": "https://www.themealdb.com/images/media/meals/1bsv1q1560459826.jpg",
-       "keywords": "tunisian",
+       "keywords": "tunisian, african, mediterranean",
        "flavor": ""
     },
     {
@@ -828,7 +828,7 @@
        "content_type": "Recipe",
        "url": "http://allrecipes.co.uk/recipe/29578/chicken-katsu-curry.aspx",
        "image": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg",
-       "keywords": "japanese",
+       "keywords": "japanese, asian",
        "flavor": ""
     },
     {
@@ -836,7 +836,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/10421/kedgeree",
        "image": "https://www.themealdb.com/images/media/meals/utxqpt1511639216.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -844,7 +844,7 @@
        "content_type": "Recipe",
        "url": "http://allrecipes.co.uk/recipe/43723/keleya-zaara-tunisian-lamb-with-saffron.aspx",
        "image": "https://www.themealdb.com/images/media/meals/8x09hy1560460923.jpg",
-       "keywords": "tunisian",
+       "keywords": "tunisian, african, mediterranean",
        "flavor": ""
     },
     {
@@ -852,7 +852,7 @@
        "content_type": "Recipe",
        "url": "http://www.tablespoon.com/recipes/copycat-kfc-original-style-chicken/97c93d14-9d8c-4bc7-96dc-1e0b37e4fcaa",
        "image": "https://www.themealdb.com/images/media/meals/xqusqy1487348868.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -860,7 +860,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/2155644/key-lime-pie",
        "image": "https://www.themealdb.com/images/media/meals/qpqtuu1511386216.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -868,7 +868,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/kidney-bean-curry",
        "image": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg",
-       "keywords": "indian",
+       "keywords": "indian, asian",
        "flavor": ""
     },
     {
@@ -876,7 +876,7 @@
        "content_type": "Recipe",
        "url": "https://www.themediterraneandish.com/egyptian-koshari-recipe/",
        "image": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg",
-       "keywords": "egyptian",
+       "keywords": "egyptian, mediterranean, african, arabic, middle-eastern",
        "flavor": ""
     },
     {
@@ -884,7 +884,7 @@
        "content_type": "Recipe",
        "url": "https://www.mythirtyspot.com/krispy-kreme-copycat-recipe-for/",
        "image": "https://www.themealdb.com/images/media/meals/4i5cnx1587672171.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -892,7 +892,7 @@
        "content_type": "Recipe",
        "url": "http://www.turkeysforlife.com/2013/10/firinda-kumpir-turkish-street-food.html",
        "image": "https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg",
-       "keywords": "turkish",
+       "keywords": "turkish, arabic, mediterranean, middle-eastern",
        "flavor": ""
     },
     {
@@ -900,7 +900,7 @@
        "content_type": "Recipe",
        "url": "http://allrecipes.co.uk/recipe/1773/kung-pao-chicken.aspx",
        "image": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
-       "keywords": "chinese",
+       "keywords": "chinese, asian",
        "flavor": ""
     },
     {
@@ -908,7 +908,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/1415664/kung-po-prawns",
        "image": "https://www.themealdb.com/images/media/meals/1525873040.jpg",
-       "keywords": "chinese",
+       "keywords": "chinese, asian",
        "flavor": ""
     },
     {
@@ -916,7 +916,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/prawn-laksa-curry-bowl",
        "image": "https://www.themealdb.com/images/media/meals/rvypwy1503069308.jpg",
-       "keywords": "malaysian",
+       "keywords": "malaysian, asian",
        "flavor": ""
     },
     {
@@ -924,7 +924,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/lamb-lemon-dill-souvlaki",
        "image": "https://www.themealdb.com/images/media/meals/rjhf741585564676.jpg",
-       "keywords": "greek",
+       "keywords": "greek, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -932,7 +932,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/lambandpotatopie_83913",
        "image": "https://www.themealdb.com/images/media/meals/sxrpws1511555907.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -940,7 +940,7 @@
        "content_type": "Recipe",
        "url": "http://www.relishthebite.com/restaurant-style-lamb-biryani/",
        "image": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
-       "keywords": "indian",
+       "keywords": "indian, asian",
        "flavor": ""
     },
     {
@@ -948,7 +948,7 @@
        "content_type": "Recipe",
        "url": "http://www.bbcgoodfood.com/recipes/9643/onepan-rogan-josh",
        "image": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
-       "keywords": "indian",
+       "keywords": "indian, asian",
        "flavor": ""
     },
     {
@@ -956,7 +956,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/2303638/family-meals-easy-lamb-tagine-",
        "image": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
-       "keywords": "moroccan",
+       "keywords": "moroccan, african, mediterranean",
        "flavor": ""
     },
     {
@@ -964,7 +964,7 @@
        "content_type": "Recipe",
        "url": "http://www.ottolenghi.co.uk/recipes/meat/lamb-tomato-and-sweet-spices-shop",
        "image": "https://www.themealdb.com/images/media/meals/qtwtss1468572261.jpg",
-       "keywords": "moroccan",
+       "keywords": "moroccan, african, mediterranean",
        "flavor": ""
     },
     {
@@ -972,7 +972,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/lamb-burgers-tzatziki",
        "image": "https://www.themealdb.com/images/media/meals/k420tj1585565244.jpg",
-       "keywords": "greek",
+       "keywords": "greek, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -980,7 +980,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/9099/lancashire-hotpot",
        "image": "https://www.themealdb.com/images/media/meals/uttrxw1511637813.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -988,7 +988,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/classic-lasagne",
        "image": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
-       "keywords": "italian",
+       "keywords": "italian, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -996,7 +996,7 @@
        "content_type": "Recipe",
        "url": "http://allrecipes.co.uk/recipe/43419/leblebi--tunisian-chickpea-soup-.aspx",
        "image": "https://www.themealdb.com/images/media/meals/x2fw9e1560460636.jpg",
-       "keywords": "tunisian",
+       "keywords": "tunisian, african, mediterranean",
        "flavor": ""
     },
     {
@@ -1004,7 +1004,7 @@
        "content_type": "Recipe",
        "url": "https://www.chinasichuanfood.com/mapo-tofu-recipe/",
        "image": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
-       "keywords": "chinese",
+       "keywords": "chinese, asian",
        "flavor": ""
     },
     {
@@ -1012,7 +1012,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/madeiracake_73878",
        "image": "https://www.themealdb.com/images/media/meals/urtqut1511723591.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1020,7 +1020,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/420631/beef-massaman-curry",
        "image": "https://www.themealdb.com/images/media/meals/tvttqv1504640475.jpg",
-       "keywords": "thai",
+       "keywords": "thai, asian",
        "flavor": ""
     },
     {
@@ -1028,7 +1028,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/matar-paneer",
        "image": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
-       "keywords": "indian",
+       "keywords": "indian, asian",
        "flavor": ""
     },
     {
@@ -1036,7 +1036,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/mcsinghs_scotch_pie_98356",
        "image": "https://www.themealdb.com/images/media/meals/vssrtx1511557680.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1044,7 +1044,7 @@
        "content_type": "Recipe",
        "url": "https://thelemonsqueezy.com/recipe/mediterranean-pasta-salad/",
        "image": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
-       "keywords": "italian",
+       "keywords": "italian, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1052,7 +1052,7 @@
        "content_type": "Recipe",
        "url": "https://www.nyonyacooking.com/recipes/mee-goreng-mamak~BkTLRjTuX",
        "image": "https://www.themealdb.com/images/media/meals/xquakq1619787532.jpg",
-       "keywords": "malaysian",
+       "keywords": "malaysian, asian",
        "flavor": ""
     },
     {
@@ -1060,7 +1060,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/2174/unbelievably-easy-mince-pies",
        "image": "https://www.themealdb.com/images/media/meals/qe8pf51576795532.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1068,7 +1068,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/mincedbeefpie_89198",
        "image": "https://www.themealdb.com/images/media/meals/xwutvy1511555540.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1076,7 +1076,7 @@
        "content_type": "Recipe",
        "url": "http://www.meatwave.com/blog/montreal-smoked-meat-recipe",
        "image": "https://www.themealdb.com/images/media/meals/uttupv1511815050.jpg",
-       "keywords": "canadian",
+       "keywords": "canadian, western",
        "flavor": ""
     },
     {
@@ -1084,7 +1084,7 @@
        "content_type": "Recipe",
        "url": "https://www.sanjeevkapoor.com/Recipe/Moroccan-Carrot-Soup.html",
        "image": "https://www.themealdb.com/images/media/meals/jcr46d1614763831.jpg",
-       "keywords": "moroccan",
+       "keywords": "moroccan, african, mediterranean",
        "flavor": ""
     },
     {
@@ -1092,7 +1092,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/must-make-moussaka",
        "image": "https://www.themealdb.com/images/media/meals/ctg8jd1585563097.jpg",
-       "keywords": "greek",
+       "keywords": "greek, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1100,7 +1100,7 @@
        "content_type": "Recipe",
        "url": "https://chefindisguise.com/2017/05/15/mulukhiyah-a-stew-fit-for-royals/",
        "image": "https://www.themealdb.com/images/media/meals/x372ug1598733932.jpg",
-       "keywords": "egyptian",
+       "keywords": "egyptian, mediterranean, african, arabic, middle-eastern",
        "flavor": ""
     },
     {
@@ -1108,7 +1108,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/mushroom-chestnut-rotolo",
        "image": "https://www.themealdb.com/images/media/meals/ssyqwr1511451678.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1116,7 +1116,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/mustard-champ",
        "image": "https://www.themealdb.com/images/media/meals/o7p9581608589317.jpg",
-       "keywords": "irish",
+       "keywords": "irish, european, western",
        "flavor": ""
     },
     {
@@ -1124,7 +1124,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/nanaimo-bars",
        "image": "https://www.themealdb.com/images/media/meals/vwuprt1511813703.jpg",
-       "keywords": "canadian",
+       "keywords": "canadian, western",
        "flavor": ""
     },
     {
@@ -1132,7 +1132,7 @@
        "content_type": "Recipe",
        "url": "https://www.allrecipes.com/recipe/78938/malaysian-nasi-lemak/",
        "image": "https://www.themealdb.com/images/media/meals/wai9bw1619788844.jpg",
-       "keywords": "malaysian",
+       "keywords": "malaysian, asian",
        "flavor": ""
     },
     {
@@ -1140,7 +1140,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/2869/new-york-cheesecake",
        "image": "https://www.themealdb.com/images/media/meals/swttys1511385853.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -1148,7 +1148,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/11753/nutty-chicken-curry",
        "image": "https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg",
-       "keywords": "indian",
+       "keywords": "indian, asian",
        "flavor": ""
     },
     {
@@ -1156,7 +1156,7 @@
        "content_type": "Recipe",
        "url": "https://www.cookstr.com/Meat/Osso-Buco-alla-Milanese",
        "image": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg",
-       "keywords": "italian",
+       "keywords": "italian, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1164,7 +1164,7 @@
        "content_type": "Recipe",
        "url": "http://allrecipes.co.uk/recipe/5392/jamaican-oxtail-with-broad-beans.aspx",
        "image": "https://www.themealdb.com/images/media/meals/1520083578.jpg",
-       "keywords": "jamaican",
+       "keywords": "jamaican, afro-caribbean",
        "flavor": ""
     },
     {
@@ -1172,7 +1172,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/2907669/easy-pancakes",
        "image": "https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -1180,7 +1180,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/1940684/parkin",
        "image": "https://www.themealdb.com/images/media/meals/qxuqtt1511724269.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1188,7 +1188,7 @@
        "content_type": "Recipe",
        "url": "https://www.food.com/recipe/paszteciki-polish-pasties-117909",
        "image": "https://www.themealdb.com/images/media/meals/c9a3l31593261890.jpg",
-       "keywords": "polish",
+       "keywords": "polish, european",
        "flavor": ""
     },
     {
@@ -1196,7 +1196,7 @@
        "content_type": "Recipe",
        "url": "https://www.ricardocuisine.com/en/recipes/5541-pate-chinois-shepherd--s-pie-",
        "image": "https://www.themealdb.com/images/media/meals/yyrrxr1511816289.jpg",
-       "keywords": "canadian",
+       "keywords": "canadian, western",
        "flavor": ""
     },
     {
@@ -1204,7 +1204,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/1553651/peach-and-blueberry-grunt",
        "image": "https://www.themealdb.com/images/media/meals/ssxvup1511387476.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -1212,7 +1212,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/1759649/peanut-butter-cheesecake",
        "image": "https://www.themealdb.com/images/media/meals/qtuuys1511387068.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -1220,7 +1220,7 @@
        "content_type": "Recipe",
        "url": "https://tasty.co/recipe/3-ingredient-peanut-butter-cookies",
        "image": "https://www.themealdb.com/images/media/meals/1544384070.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -1228,7 +1228,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/4778/pear-tarte-tatin",
        "image": "https://www.themealdb.com/images/media/meals/rxvxrr1511797671.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1236,7 +1236,7 @@
        "content_type": "Recipe",
        "url": "https://www.allrecipes.com/recipe/109914/pierogi-polish-dumplings/",
        "image": "https://www.themealdb.com/images/media/meals/45xxr21593348847.jpg",
-       "keywords": "polish",
+       "keywords": "polish, european",
        "flavor": ""
     },
     {
@@ -1244,7 +1244,7 @@
        "content_type": "Recipe",
        "url": "https://www.olivemagazine.com/recipes/family/piri-piri-chicken-and-winter-slaw/",
        "image": "https://www.themealdb.com/images/media/meals/hglsbl1614346998.jpg",
-       "keywords": "portuguese",
+       "keywords": "portuguese, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1252,7 +1252,7 @@
        "content_type": "Recipe",
        "url": "https://www.dailymail.co.uk/femail/food/article-8240361/Pizza-Express-release-secret-recipe-Margherita-Pizza-make-home.html",
        "image": "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg",
-       "keywords": "italian",
+       "keywords": "italian, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1260,7 +1260,7 @@
        "content_type": "Recipe",
        "url": "https://www.tasteatlas.com/nalesniki/recipe",
        "image": "https://www.themealdb.com/images/media/meals/58bkyo1593350017.jpg",
-       "keywords": "polish",
+       "keywords": "polish, european",
        "flavor": ""
     },
     {
@@ -1268,7 +1268,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/jacks-pork-cassoulet",
        "image": "https://www.themealdb.com/images/media/meals/wxuvuv1511299147.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1276,7 +1276,7 @@
        "content_type": "Recipe",
        "url": "https://www.olivemagazine.com/recipes/meat-and-poultry/febras-assadas-portuguese-barbecued-pork-served-with-lemon-and-mayo-on-chips/",
        "image": "https://www.themealdb.com/images/media/meals/cybyue1614349443.jpg",
-       "keywords": "portuguese",
+       "keywords": "portuguese, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1284,7 +1284,7 @@
        "content_type": "Recipe",
        "url": "https://www.olivemagazine.com/recipes/baking-and-desserts/portuguese-custard-tarts/",
        "image": "https://www.themealdb.com/images/media/meals/vmz7gl1614350221.jpg",
-       "keywords": "portuguese",
+       "keywords": "portuguese, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1292,7 +1292,7 @@
        "content_type": "Recipe",
        "url": "https://www.olivemagazine.com/recipes/one-pots/portuguese-fish-stew-caldeirada-de-peixe/",
        "image": "https://www.themealdb.com/images/media/meals/do7zps1614349775.jpg",
-       "keywords": "portuguese",
+       "keywords": "portuguese, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1300,7 +1300,7 @@
        "content_type": "Recipe",
        "url": "https://www.olivemagazine.com/recipes/meat-and-poultry/portuguese-prego-with-green-piri-piri/",
        "image": "https://www.themealdb.com/images/media/meals/ewcikl1614348364.jpg",
-       "keywords": "portuguese",
+       "keywords": "portuguese, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1316,7 +1316,7 @@
        "content_type": "Recipe",
        "url": "http://www.geniuskitchen.com/recipe/pouding-chomeur-poor-mans-pudding-with-maple-syrup-sauce-218797",
        "image": "https://www.themealdb.com/images/media/meals/yqqqwu1511816912.jpg",
-       "keywords": "canadian",
+       "keywords": "canadian, western",
        "flavor": ""
     },
     {
@@ -1324,7 +1324,7 @@
        "content_type": "Recipe",
        "url": "http://www.food.com/recipe/real-canadian-poutine-113388",
        "image": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
-       "keywords": "canadian",
+       "keywords": "canadian, western",
        "flavor": ""
     },
     {
@@ -1332,7 +1332,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/71600/prawn-and-fennel-bisque",
        "image": "https://www.themealdb.com/images/media/meals/rtwwvv1511799504.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1340,7 +1340,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/6428/provenal-omelette-cake",
        "image": "https://www.themealdb.com/images/media/meals/qwtrtp1511799242.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1348,7 +1348,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/1742633/pumpkin-pie",
        "image": "https://www.themealdb.com/images/media/meals/usuqtp1511385394.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -1356,7 +1356,7 @@
        "content_type": "Recipe",
        "url": "http://allrecipes.com/recipe/234025/rappie-pie/",
        "image": "https://www.themealdb.com/images/media/meals/ruwpww1511817242.jpg",
-       "keywords": "canadian",
+       "keywords": "canadian, western",
        "flavor": ""
     },
     {
@@ -1364,7 +1364,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/2903/ratatouille",
        "image": "https://www.themealdb.com/images/media/meals/wrpwuu1511786491.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1372,7 +1372,7 @@
        "content_type": "Recipe",
        "url": "http://www.flavorsofmumbai.com/fish-recheado-masala-recipe/",
        "image": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg",
-       "keywords": "indian",
+       "keywords": "indian, asian",
        "flavor": ""
     },
     {
@@ -1380,7 +1380,7 @@
        "content_type": "Recipe",
        "url": "http://caribbeanpot.com/caribbean-red-peas-soup/",
        "image": "https://www.themealdb.com/images/media/meals/sqpqtp1515365614.jpg",
-       "keywords": "jamaican",
+       "keywords": "jamaican, afro-caribbean",
        "flavor": ""
     },
     {
@@ -1388,7 +1388,7 @@
        "content_type": "Recipe",
        "url": "https://cooking.nytimes.com/recipes/1016052-ribollita",
        "image": "https://www.themealdb.com/images/media/meals/xrrwpx1487347049.jpg",
-       "keywords": "italian",
+       "keywords": "italian, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1396,7 +1396,7 @@
        "content_type": "Recipe",
        "url": "http://www.ottolenghi.co.uk/recipes/meat/rigatoni-with-fennel-sausage-sauce-and-pecorino-and-anchovy-pesto-shop",
        "image": "https://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg",
-       "keywords": "moroccan",
+       "keywords": "moroccan, african, mediterranean",
        "flavor": ""
     },
     {
@@ -1404,7 +1404,7 @@
        "content_type": "Recipe",
        "url": "https://www.homestylemag.co.uk/recipe/517/main-courses/roast-fennel-and-aubergine-paella",
        "image": "https://www.themealdb.com/images/media/meals/1520081754.jpg",
-       "keywords": "spanish",
+       "keywords": "spanish, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1412,7 +1412,7 @@
        "content_type": "Recipe",
        "url": "http://www.seriouseats.com/recipes/2016/03/roasted-eggplant-tahini-pine-nut-lentil-vegan-experience-recipe.html",
        "image": "https://www.themealdb.com/images/media/meals/ysqrus1487425681.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -1420,7 +1420,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/rock_cakes_03094",
        "image": "https://www.themealdb.com/images/media/meals/tqrrsq1511723764.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1428,7 +1428,7 @@
        "content_type": "Recipe",
        "url": "http://tiphero.com/rocky-road-fudge/",
        "image": "https://www.themealdb.com/images/media/meals/vtxyxv1483567157.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -1436,7 +1436,7 @@
        "content_type": "Recipe",
        "url": "https://www.food.com/recipe/rogaliki-polish-croissant-cookies-with-jam-filling-200668",
        "image": "https://www.themealdb.com/images/media/meals/7mxnzz1593350801.jpg",
-       "keywords": "polish",
+       "keywords": "polish, european",
        "flavor": ""
     },
     {
@@ -1444,7 +1444,7 @@
        "content_type": "Recipe",
        "url": "https://polishhousewife.com/rosol-polish-chicken-soup/",
        "image": "https://www.themealdb.com/images/media/meals/lx1kkj1593349302.jpg",
-       "keywords": "polish",
+       "keywords": "polish, european",
        "flavor": ""
     },
     {
@@ -1452,7 +1452,7 @@
        "content_type": "Recipe",
        "url": "https://www.196flavors.com/malaysia-roti-john/",
        "image": "https://www.themealdb.com/images/media/meals/hx335q1619789561.jpg",
-       "keywords": "malaysian",
+       "keywords": "malaysian, asian",
        "flavor": ""
     },
     {
@@ -1460,7 +1460,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/4521/salmon-avocado-and-cucumber-salad",
        "image": "https://www.themealdb.com/images/media/meals/1549542994.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1468,7 +1468,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/73606/eggs-benedict-with-smoked-salmon-and-chives",
        "image": "https://www.themealdb.com/images/media/meals/1550440197.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -1476,7 +1476,7 @@
        "content_type": "Recipe",
        "url": "http://www.rangemaster.co.uk/rangemaster-owners/recipes-ideas-inspiration/recipes/mains/prawn-and-hot-smoked-salmon-risotto-with-asparagus",
        "image": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
-       "keywords": "italian",
+       "keywords": "italian, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1484,7 +1484,7 @@
        "content_type": "Recipe",
        "url": "http://www.janespatisserie.com/2015/11/09/no-bake-salted-caramel-cheesecake/",
        "image": "https://www.themealdb.com/images/media/meals/xqrwyr1511133646.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -1492,7 +1492,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/saltfish__ackee_with_64803",
        "image": "https://www.themealdb.com/images/media/meals/vytypy1511883765.jpg",
-       "keywords": "jamaican",
+       "keywords": "jamaican, afro-caribbean",
        "flavor": ""
     },
     {
@@ -1500,7 +1500,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/seafood-fideua-paella",
        "image": "https://www.themealdb.com/images/media/meals/wqqvyq1511179730.jpg",
-       "keywords": "spanish",
+       "keywords": "spanish, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1508,7 +1508,7 @@
        "content_type": "Recipe",
        "url": "https://makan.ch/recipe/kuih-seri-muka/",
        "image": "https://www.themealdb.com/images/media/meals/6ut2og1619790195.jpg",
-       "keywords": "malaysian",
+       "keywords": "malaysian, asian",
        "flavor": ""
     },
     {
@@ -1516,7 +1516,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/7573/spicy-tomato-baked-eggs",
        "image": "https://www.themealdb.com/images/media/meals/g373701551450225.jpg",
-       "keywords": "egyptian",
+       "keywords": "egyptian, mediterranean, african, arabic, middle-eastern",
        "flavor": ""
     },
     {
@@ -1524,7 +1524,7 @@
        "content_type": "Recipe",
        "url": "https://www.recipetineats.com/chicken-sharwama-middle-eastern/",
        "image": "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg",
-       "keywords": "egyptian",
+       "keywords": "egyptian, mediterranean, african, arabic, middle-eastern",
        "flavor": ""
     },
     {
@@ -1532,7 +1532,7 @@
        "content_type": "Recipe",
        "url": "https://www.thespruceeats.com/polish-herrings-in-oil-recipe-1135618",
        "image": "https://www.themealdb.com/images/media/meals/7ttta31593350374.jpg",
-       "keywords": "polish",
+       "keywords": "polish, european",
        "flavor": ""
     },
     {
@@ -1540,7 +1540,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/2256/smoked-haddock-kedgeree",
        "image": "https://www.themealdb.com/images/media/meals/1550441275.jpg",
-       "keywords": "indian",
+       "keywords": "indian, asian",
        "flavor": ""
     },
     {
@@ -1548,7 +1548,7 @@
        "content_type": "Recipe",
        "url": "http://www.wholeheartedeats.com/2016/11/smoky-lentil-chili-squash/",
        "image": "https://www.themealdb.com/images/media/meals/uwxqwy1483389553.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1556,7 +1556,7 @@
        "content_type": "Recipe",
        "url": "https://www.thespruceeats.com/traditional-dutch-split-pea-soup-1129011",
        "image": "https://www.themealdb.com/images/media/meals/9ptx0a1565090843.jpg",
-       "keywords": "dutch",
+       "keywords": "dutch, european, western",
        "flavor": ""
     },
     {
@@ -1564,7 +1564,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/ultimate-spaghetti-carbonara-recipe",
        "image": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
-       "keywords": "italian",
+       "keywords": "italian, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1572,7 +1572,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/spanish-tortilla",
        "image": "https://www.themealdb.com/images/media/meals/quuxsx1511476154.jpg",
-       "keywords": "spanish",
+       "keywords": "spanish, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1580,7 +1580,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/531632/spinach-and-ricotta-cannelloni",
        "image": "https://www.themealdb.com/images/media/meals/wspuvp1511303478.jpg",
-       "keywords": "italian",
+       "keywords": "italian, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1588,7 +1588,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/1022639/split-pea-and-green-pea-smoked-ham-soup",
        "image": "https://www.themealdb.com/images/media/meals/xxtsvx1511814083.jpg",
-       "keywords": "canadian",
+       "keywords": "canadian, western",
        "flavor": ""
     },
     {
@@ -1596,7 +1596,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/2686661/spotted-dick",
        "image": "https://www.themealdb.com/images/media/meals/xqvyqr1511638875.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1604,7 +1604,7 @@
        "content_type": "Recipe",
        "url": "https://www.olivemagazine.com/recipes/fish-and-seafood/spring-onion-and-prawn-empanadas/",
        "image": "https://www.themealdb.com/images/media/meals/1c5oso1614347493.jpg",
-       "keywords": "portuguese",
+       "keywords": "portuguese, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1612,7 +1612,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/creamy-squash-linguine",
        "image": "https://www.themealdb.com/images/media/meals/wxswxy1511452625.jpg",
-       "keywords": "italian",
+       "keywords": "italian, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1620,7 +1620,7 @@
        "content_type": "Recipe",
        "url": "https://www.thespruceeats.com/stamppot-with-curly-kale-and-rookworst-1128837",
        "image": "https://www.themealdb.com/images/media/meals/hyarod1565090529.jpg",
-       "keywords": "dutch",
+       "keywords": "dutch, european, western",
        "flavor": ""
     },
     {
@@ -1628,7 +1628,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/steakandkidneypie_73308",
        "image": "https://www.themealdb.com/images/media/meals/qysyss1511558054.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1636,7 +1636,7 @@
        "content_type": "Recipe",
        "url": "https://www.saveur.com/article/Recipes/Classic-Steak-Diane",
        "image": "https://www.themealdb.com/images/media/meals/vussxq1511882648.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1644,7 +1644,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/marys_sticky_toffee_41970",
        "image": "https://www.themealdb.com/images/media/meals/xqqqtu1511637379.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1652,7 +1652,7 @@
        "content_type": "Recipe",
        "url": "https://www.youtube.com/watch?v=Wytv3bjqJII",
        "image": "https://www.themealdb.com/images/media/meals/xrptpq1483909204.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1660,7 +1660,7 @@
        "content_type": "Recipe",
        "url": "http://www.seriouseats.com/2014/09/one-pot-wonders-stovetop-eggplant-harissa-chickpeas-cumin.html",
        "image": "https://www.themealdb.com/images/media/meals/yqwtvu1487426027.jpg",
-       "keywords": "american",
+       "keywords": "american, western",
        "flavor": ""
     },
     {
@@ -1668,7 +1668,7 @@
        "content_type": "Recipe",
        "url": "https://www.joyofbaking.com/StrawberryRhubarbPie.html",
        "image": "https://www.themealdb.com/images/media/meals/178z5o1585514569.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1676,7 +1676,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/stuffed-tomatoes-lamb-mince-dill-rice",
        "image": "https://www.themealdb.com/images/media/meals/u55lbp1585564013.jpg",
-       "keywords": "greek",
+       "keywords": "greek, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1684,7 +1684,7 @@
        "content_type": "Recipe",
        "url": "http://allrecipes.com/recipe/213595/miraculous-canadian-sugar-pie/",
        "image": "https://www.themealdb.com/images/media/meals/yrstur1511816601.jpg",
-       "keywords": "canadian",
+       "keywords": "canadian, western",
        "flavor": ""
     },
     {
@@ -1692,7 +1692,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/summer-pistou",
        "image": "https://www.themealdb.com/images/media/meals/rqtxvr1511792990.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1700,7 +1700,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/4516/summer-pudding",
        "image": "https://www.themealdb.com/images/media/meals/rsqwus1511640214.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1708,7 +1708,7 @@
        "content_type": "Recipe",
        "url": "https://www.chinahighlights.com/travelguide/chinese-food/cooking/sweet-sour-pork.htm",
        "image": "https://www.themealdb.com/images/media/meals/1529442316.jpg",
-       "keywords": "chinese",
+       "keywords": "chinese, asian",
        "flavor": ""
     },
     {
@@ -1716,7 +1716,7 @@
        "content_type": "Recipe",
        "url": "https://sueandgambo.com/pages/szechuan-beef",
        "image": "https://www.themealdb.com/images/media/meals/1529443236.jpg",
-       "keywords": "chinese",
+       "keywords": "chinese, asian",
        "flavor": ""
     },
     {
@@ -1724,7 +1724,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/veggie-tahini-lentils",
        "image": "https://www.themealdb.com/images/media/meals/vpxyqt1511464175.jpg",
-       "keywords": "moroccan",
+       "keywords": "moroccan, african, mediterranean",
        "flavor": ""
     },
     {
@@ -1732,7 +1732,7 @@
        "content_type": "Recipe",
        "url": "https://oukosher.org/recipes/tamiya-egyptian-dried-fava-bean-fritters/",
        "image": "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg",
-       "keywords": "egyptian",
+       "keywords": "egyptian, mediterranean, african, arabic, middle-eastern",
        "flavor": ""
     },
     {
@@ -1740,7 +1740,7 @@
        "content_type": "Recipe",
        "url": "http://www.bbcgoodfood.com/recipes/1660651/tandoori-chicken",
        "image": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg",
-       "keywords": "indian",
+       "keywords": "indian, asian",
        "flavor": ""
     },
     {
@@ -1748,7 +1748,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/tarte-tatin",
        "image": "https://www.themealdb.com/images/media/meals/ryspuw1511786688.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1756,7 +1756,7 @@
        "content_type": "Recipe",
        "url": "http://www.bbcgoodfood.com/recipes/3235/thai-green-chicken-curry",
        "image": "https://www.themealdb.com/images/media/meals/sstssx1487349585.jpg",
-       "keywords": "thai",
+       "keywords": "thai, asian",
        "flavor": ""
     },
     {
@@ -1764,7 +1764,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/3028701/threecheese-souffls",
        "image": "https://www.themealdb.com/images/media/meals/sxwquu1511793428.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1772,7 +1772,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/three_fish_pie_58875",
        "image": "https://www.themealdb.com/images/media/meals/spswqs1511558697.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1780,7 +1780,7 @@
        "content_type": "Recipe",
        "url": "http://www.geniuskitchen.com/recipe/drop-doughnuts-133877",
        "image": "https://www.themealdb.com/images/media/meals/txsupu1511815755.jpg",
-       "keywords": "canadian",
+       "keywords": "canadian, western",
        "flavor": ""
     },
     {
@@ -1788,7 +1788,7 @@
        "content_type": "Recipe",
        "url": "http://www.deliciousmagazine.co.uk/recipes/georgina-fuggles-horseradish-and-vine-tomato-toad-in-the-hole/",
        "image": "https://www.themealdb.com/images/media/meals/ytuvwr1503070420.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1796,7 +1796,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/tonkatsu-pork",
        "image": "https://www.themealdb.com/images/media/meals/lwsnkl1604181187.jpg",
-       "keywords": "japanese",
+       "keywords": "japanese, asian",
        "flavor": ""
     },
     {
@@ -1804,7 +1804,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/531644/spiced-pork-and-potato-pie",
        "image": "https://www.themealdb.com/images/media/meals/ytpstt1511814614.jpg",
-       "keywords": "canadian",
+       "keywords": "canadian, western",
        "flavor": ""
     },
     {
@@ -1812,7 +1812,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbc.co.uk/food/recipes/mary_berrys_treacle_tart_28524",
        "image": "https://www.themealdb.com/images/media/meals/wprvrw1511641295.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1820,7 +1820,7 @@
        "content_type": "Recipe",
        "url": "http://allrecipes.co.uk/recipe/3096/tunisian-tuna-and-egg-briks.aspx",
        "image": "https://www.themealdb.com/images/media/meals/2dsltq1560461468.jpg",
-       "keywords": "tunisian",
+       "keywords": "tunisian, african, mediterranean",
        "flavor": ""
     },
     {
@@ -1828,7 +1828,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/9529/winter-tuna-nioise",
        "image": "https://www.themealdb.com/images/media/meals/yypwwq1511304979.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1836,7 +1836,7 @@
        "content_type": "Recipe",
        "url": "http://allrecipes.co.uk/recipe/16694/tunisian-lamb-soup.aspx",
        "image": "https://www.themealdb.com/images/media/meals/t8mn9g1560460231.jpg",
-       "keywords": "tunisian",
+       "keywords": "tunisian, african, mediterranean",
        "flavor": ""
     },
     {
@@ -1844,7 +1844,7 @@
        "content_type": "Recipe",
        "url": "http://allrecipes.co.uk/recipe/16067/tunisian-orange-cake.aspx",
        "image": "https://www.themealdb.com/images/media/meals/y4jpgq1560459207.jpg",
-       "keywords": "tunisian",
+       "keywords": "tunisian, african, mediterranean",
        "flavor": ""
     },
     {
@@ -1852,7 +1852,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/turkey-meatloaf",
        "image": "https://www.themealdb.com/images/media/meals/ypuxtw1511297463.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1860,7 +1860,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/1993645/vegetarian-casserole",
        "image": "https://www.themealdb.com/images/media/meals/vptwyt1511450962.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1868,7 +1868,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/veggie-chilli",
        "image": "https://www.themealdb.com/images/media/meals/wqurxy1511453156.jpg",
-       "keywords": "british",
+       "keywords": "british, european, western",
        "flavor": ""
     },
     {
@@ -1876,7 +1876,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/venetian-duck-ragu",
        "image": "https://www.themealdb.com/images/media/meals/qvrwpt1511181864.jpg",
-       "keywords": "italian",
+       "keywords": "italian, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1884,7 +1884,7 @@
        "content_type": "Recipe",
        "url": "http://www.hungryhuy.com/bun-thit-nuong-recipe-vietnamese-grilled-bbq-pork-with-rice-vermicelli-vegetables/",
        "image": "https://www.themealdb.com/images/media/meals/qqwypw1504642429.jpg",
-       "keywords": "vietnamese",
+       "keywords": "vietnamese, asian",
        "flavor": ""
     },
     {
@@ -1892,7 +1892,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/2540/white-chocolate-crme-brle",
        "image": "https://www.themealdb.com/images/media/meals/uryqru1511798039.jpg",
-       "keywords": "french",
+       "keywords": "french, european, western, mediterranean",
        "flavor": ""
     },
     {
@@ -1900,7 +1900,7 @@
        "content_type": "Recipe",
        "url": "http://www.geniuskitchen.com/recipe/chinese-wontons-20235",
        "image": "https://www.themealdb.com/images/media/meals/1525876468.jpg",
-       "keywords": "chinese",
+       "keywords": "chinese, asian",
        "flavor": ""
     },
     {
@@ -1908,7 +1908,7 @@
        "content_type": "Recipe",
        "url": "https://www.bbcgoodfood.com/recipes/yaki-udon",
        "image": "https://www.themealdb.com/images/media/meals/wrustq1511475474.jpg",
-       "keywords": "japanese",
+       "keywords": "japanese, asian",
        "flavor": ""
     }
  ]
