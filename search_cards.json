@@ -52,7 +52,7 @@
     "content_type": "Recipe",
     "url": "./recipes/taiwanese-fried-pork-chop.html",
     "image": "./static/images/Taiwanese_Fried_Pork_Chop_1.jpg",
-    "ingredients": "pork chop, fried, taiwanese, dinner, lunch",
+    "ingredients": "pork chop, fried, taiwanese, dinner, lunch, asian",
     "flavor": "savory, salty"
     },
     {
@@ -60,7 +60,7 @@
     "content_type": "Recipe",
     "url": "./recipes/bak-kut-teh.html",
     "image": "./static/images/Bak_Kut_Teh_Pork_Rib_Soup.jpg",
-    "ingredients": "pork, soup, herbal, malaysian, singaporean, dinner, lunch",
+    "ingredients": "pork, soup, herbal, malaysian, singaporean, dinner, lunch, asian",
     "flavor": "savory, salty"
     },
     {
@@ -68,7 +68,7 @@
     "content_type": "Recipe",
     "url": "./recipes/japanese-grilled-pork-belly-skewers.html",
     "image": "./static/images/Japanese Grilled Pork Belly Skewers and Miso Glazed Eggplant 1.jpg",
-    "ingredients": "pork belly, skewers, eggplant, green onion, grilled, japanese, dinner, lunch",
+    "ingredients": "pork belly, skewers, eggplant, green onion, grilled, japanese, dinner, lunch, asian",
     "flavor": "savory, umami, salty"
     },
     {
@@ -92,7 +92,7 @@
     "content_type": "Recipe",
     "url": "./recipes/chrysanthemum-flower-tea.html",
     "image": "./static/images/Chrysanthemum_Tea_with_Red_Dates_and_Goji_Berries_1.jpg",
-    "ingredients": "tea, goji berries, honey, red dates, chrysanthemum flower, floral tea, drink",
+    "ingredients": "tea, goji berries, honey, red dates, chrysanthemum flower, floral tea, drink, beverage",
     "flavor": "sweet"
     },
     {
@@ -108,7 +108,7 @@
     "content_type": "Recipe",
     "url": "./recipes/sesame-spinach-noodles.html",
     "image": "./static/images/Sesame_Spinach_Noodles_1.jpg",
-    "ingredients": "chicken, shallot, soy sauce, dark soy sauce, oyster sauce, sesame oil, sugar, peppercorns, red chili oil, tahini, peanut butter, black vinegar",
+    "ingredients": "chicken, shallot, soy sauce, dark soy sauce, oyster sauce, sesame oil, sugar, peppercorns, red chili oil, tahini, peanut butter, black vinegar, asian, szechuan",
     "flavor": "umami, savory, salty"
     },
     {
@@ -116,7 +116,7 @@
     "content_type": "Recipe",
     "url": "./recipes/air-fryer-panko-shrimp-cutlet.html",
     "image": "./static/images/Air_Fryer_Shrimp_Cutlet_1.jpg",
-    "ingredients": "shrimp, salt, pepper, garlic powder, breadcrumbs, olive oil, flour, egg, olive oil, lemon, mayonnaise",
+    "ingredients": "shrimp, salt, pepper, garlic powder, breadcrumbs, olive oil, flour, egg, olive oil, lemon, mayonnaise, japanese, asian",
     "flavor": "umami, savory, salty"
     },
     {
@@ -124,7 +124,7 @@
     "content_type": "Recipe",
     "url": "./recipes/air-fryer-malaysian-chicken-curry.html",
     "image": "./static/images/A_Little_Twist_On_Malaysian_Chicken_Curry_Air_Fryer.jpg",
-    "ingredients": "chicken thighs, curry powder, russet potatoes, Malaysian curry, coconut milk, rice, salt, sugar, olive oil",
+    "ingredients": "chicken thighs, curry powder, russet potatoes, Malaysian curry, coconut milk, rice, salt, sugar, olive oil, asian",
     "flavor": "umami, savory, salty"
     },
     {
@@ -132,7 +132,7 @@
     "content_type": "Recipe",
     "url": "./recipes/loco-moco-with-spam.html",
     "image": "./static/images/Loco_Moco_with_Spam.jpg",
-    "ingredients": "beef patties, salt, spam, eggs, cooking wine, worcestershire sauce, soy sauce, sugar, heavy cream, onion",
+    "ingredients": "beef patties, salt, spam, eggs, cooking wine, worcestershire sauce, soy sauce, sugar, heavy cream, onion, hawaiian, asian-american",
     "flavor": "umami, savory, salty"
     },
     {
@@ -140,7 +140,7 @@
     "content_type": "Recipe",
     "url": "./recipes/air-fryer-roast-pork-belly.html",
     "image": "./static/images/Air_Fryer_Roast_Pork_Belly.jpg",
-    "ingredients": "pork belly, five spice, salt, hoisin sauce, five spice",
+    "ingredients": "pork belly, five spice, salt, hoisin sauce, five spice, asian, cantonese, chinese",
     "flavor": "umami, savory, salty"
     },
     {
@@ -148,7 +148,7 @@
     "content_type": "Recipe",
     "url": "./recipes/sandy-skin-chicken.html",
     "image": "./static/images/Sandy_Skin_Chicken.jpg",
-    "ingredients": "lemon juice, olive oil, evaporated milk, sugar, salt, egg yolk, white vinegar, chicken breasts, eggs, flour, breadcrumbs, nuts",
+    "ingredients": "lemon juice, olive oil, evaporated milk, sugar, salt, egg yolk, white vinegar, chicken breasts, eggs, flour, breadcrumbs, nuts, asian, cantonese, chinese",
     "flavor": "umami, savory, salty"
     },
     {
@@ -156,7 +156,7 @@
     "content_type": "Recipe",
     "url": "./recipes/hakka-board-noodles.html",
     "image": "./static/images/hakka_board_noodles.jpg",
-    "ingredients": "flour, egg, dried anchovies, olive oil, ginger, mushroom stalks, salt, ground pork, shallots, shiitake mushrooms, soy sauce, dark soy sauce, oyster sauce, sesame oil, sugar, dried shrimp, dried chili, shallot, garlic",
+    "ingredients": "flour, egg, dried anchovies, olive oil, ginger, mushroom stalks, salt, ground pork, shallots, shiitake mushrooms, soy sauce, dark soy sauce, oyster sauce, sesame oil, sugar, dried shrimp, dried chili, shallot, garlic, asian, hakka, chinese, han",
     "flavor": "umami, savory, salty"
     },
     {
@@ -164,7 +164,7 @@
     "content_type": "Recipe",
     "url": "./recipes/coconut-juice-braised-sticky-chicken-thighs.html",
     "image": "./static/images/coconut_juice_braised_sticky_chicken_thighs.jpg",
-    "ingredients": "Chicken Thighs, Salt, Coconut Juice, Coconut Sugar, Soy Sauce, Dark Soy Sauce, Lemongrass, Shallot, Garlic",
+    "ingredients": "Chicken Thighs, Salt, Coconut Juice, Coconut Sugar, Soy Sauce, Dark Soy Sauce, Lemongrass, Shallot, Garlic, asian, malaysian",
     "flavor": "umami, savory, salty"
     },
     {
@@ -172,7 +172,7 @@
     "content_type": "Recipe",
     "url": "./recipes/butterfly-pea-flower-rice.html",
     "image": "./static/images/butterfly_pea_flower_rice.jpg",
-    "ingredients": "Jasmine Rice, Coconut Milk, Butterfly Pea Flower Dye, Salt, Pandan Leaves",
+    "ingredients": "Jasmine Rice, Coconut Milk, Butterfly Pea Flower Dye, Salt, Pandan Leaves, asian, malaysian",
     "flavor": "umami"
     },
     {
@@ -188,7 +188,7 @@
     "content_type": "Recipe",
     "url": "./recipes/yin-yeung-fried-rice.html",
     "image": "./static/images/yin_yeung_fried_rice.jpg",
-    "ingredients": "white rice, eggs, salt, olive oil, chicken breast, soy sauce, oyster sauce, sesame oil, yellow onion, tomato paste, sugar, chicken stock",
+    "ingredients": "white rice, eggs, salt, olive oil, chicken breast, soy sauce, oyster sauce, sesame oil, yellow onion, tomato paste, sugar, chicken stock, asian, cantonese, chinese",
     "flavor": "umami, savory, salty"
     },
     {
@@ -196,7 +196,7 @@
     "content_type": "Recipe",
     "url": "./recipes/black-pepper-cream-sauce.html",
     "image": "./static/images/black_pepper_cream_sauce.jpg",
-    "ingredients": "oyster sauce, dark soy sauce, light soy sauce, Worcestershire sauce, heavy cream, black pepper",
+    "ingredients": "oyster sauce, dark soy sauce, light soy sauce, Worcestershire sauce, heavy cream, black pepper, hong kong, asian, colonial",
     "flavor": "umami, savory, salty"
     },
     {
@@ -204,7 +204,7 @@
     "content_type": "Recipe",
     "url": "./recipes/pineapple-tarts.html",
     "image": "./static/images/pineapple_tarts.jpg",
-    "ingredients": "Pineapple, Sugar, Cinnamon, Butter, Egg, Corn Starch, Flour",
+    "ingredients": "Pineapple, Sugar, Cinnamon, Butter, Egg, Corn Starch, Flour, malaysian, asian",
     "flavor": "sweet"
     },
     {
@@ -212,7 +212,7 @@
     "content_type": "Recipe",
     "url": "./recipes/braised-pork-belly.html",
     "image": "./static/images/braised_pork_belly.JPG",
-    "ingredients": "pork belly, shallot oil, garlic, soy sauce, dark soy sauce, thick soy sauce, five spice powder, cooking wine, sugar",
+    "ingredients": "pork belly, shallot oil, garlic, soy sauce, dark soy sauce, thick soy sauce, five spice powder, cooking wine, sugar, asian",
     "flavor": "umami, savory, salty"
     },
     {
@@ -220,7 +220,7 @@
     "content_type": "Recipe",
     "url": "./recipes/chayote-squash-soup-broth.html",
     "image": "./static/images/soup_broth_after.jpg",
-    "ingredients": "Chayote Squash, Carrots, Honey Dates, Pork Bones, Goji Berries",
+    "ingredients": "Chayote Squash, Carrots, Honey Dates, Pork Bones, Goji Berries, cantonese, chinese, asian",
     "flavor": "umami, savory, salty"
     },
     {
@@ -228,7 +228,7 @@
     "content_type": "Recipe",
     "url": "./recipes/wok-charred-lotus-root-with-chinese-sausage.html",
     "image": "./static/images/wok_charred_lotus_root_with_chinese_sausage.jpg",
-    "ingredients": "Chinese Sausage, Lotus Root, Snow Peas, Carrot, Celery, Salt, Sugar, Soy Sauce, Oyster Sauce, Cooking Wine",
+    "ingredients": "Chinese Sausage, Lotus Root, Snow Peas, Carrot, Celery, Salt, Sugar, Soy Sauce, Oyster Sauce, Cooking Wine, cantonese, chinese, asian",
     "flavor": "umami, savory, salty"
     },
     {
@@ -236,7 +236,7 @@
     "content_type": "Recipe",
     "url": "./recipes/shallot-oil.html",
     "image": "./static/images/shallot_oil.png",
-    "ingredients": "shallot, olive oil",
+    "ingredients": "shallot, olive oil, asian, chinese",
     "flavor": "umami, savory, salty"
     },
     {
