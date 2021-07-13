@@ -1,5 +1,13 @@
 [
     {
+    "title": "Ipoh Shredded Chicken Noodle Soup",
+    "content_type": "Recipe",
+    "url": "./recipes/ipoh-shredded-chicken-noodle-soup.html",
+    "image": "./static/images/Ipoh_Shredded_Chicken_Noodle_Soup_1_400x533.jpg",
+    "ingredients": "chicken, shrimp, prawn, noodle, soup, malaysian, chinese, asian, lunch, dinner",
+    "flavor": "umami, savory, salty"
+    },
+    {
     "title": "One Pot Chicken and Linguica Rice",
     "content_type": "Recipe",
     "url": "./recipes/one-pot-chicken-and-linguica-rice.html",
