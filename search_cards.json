@@ -1,5 +1,13 @@
 [
     {
+    "title": "Hainanese Chicken Rice",
+    "content_type": "Recipe",
+    "url": "./recipes/hainanese-chicken-rice.html",
+    "image": "./static/images/Hainanese_Chicken_Rice_1_400x533.jpg",
+    "ingredients": "chicken, hainanese, chinese, asian, lunch, dinner",
+    "flavor": "umami, savory, salty"
+    },
+    {
     "title": "Ipoh Shredded Chicken Noodle Soup",
     "content_type": "Recipe",
     "url": "./recipes/ipoh-shredded-chicken-noodle-soup.html",
