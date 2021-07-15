@@ -1,5 +1,13 @@
 [
     {
+    "title": "Agedashi Tofu",
+    "content_type": "Recipe",
+    "url": "./recipes/agedashi-tofu.html",
+    "image": "./static/images/Agedashi_Tofu_1_400x533.jpg",
+    "ingredients": "fried, japanese, dinner",
+    "flavor": "umami, savory, salty"
+    },
+    {
     "title": "Pandan Coconut Sugar Creme Brulee",
     "content_type": "Recipe",
     "url": "./recipes/pandan-coconut-sugar-creme-brulee.html",
