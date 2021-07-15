@@ -1,5 +1,13 @@
 [
     {
+    "title": "Pandan Coconut Sugar Creme Brulee",
+    "content_type": "Recipe",
+    "url": "./recipes/pandan-coconut-sugar-creme-brulee.html",
+    "image": "./static/images/Pandan_Coconut_Sugar_Creme_Brulee_1_400x554.jpg",
+    "ingredients": "desert, french",
+    "flavor": "sweet"
+    },
+    {
     "title": "Hainanese Chicken Rice",
     "content_type": "Recipe",
     "url": "./recipes/hainanese-chicken-rice.html",
