@@ -1,5 +1,13 @@
 [
     {
+    "title": "Gyudon (Japanese Beef Rice Bowl)",
+    "content_type": "Recipe",
+    "url": "./recipes/gyudon.html",
+    "image": "./static/images/Gyudon_Japanese_Beef_Rice_Bowl_1_400x533.jpg",
+    "ingredients": "japanese, dinner, Ribeye",
+    "flavor": "umami, savory, salty"
+    },
+    {
     "title": "Agedashi Tofu",
     "content_type": "Recipe",
     "url": "./recipes/agedashi-tofu.html",
