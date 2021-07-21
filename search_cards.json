@@ -1,10 +1,18 @@
 [
     {
+    "title": "Butadon (Japanese Pork Rice Bowl)",
+    "content_type": "Recipe",
+    "url": "./recipes/butadon.html",
+    "image": "./static/images/Butadon_Japanese_Pork_Rice_Bowl_1_400x533.jpg",
+    "ingredients": "japanese, dinner, pork, asian",
+    "flavor": "umami, savory, salty"
+    },
+    {
     "title": "Gyudon (Japanese Beef Rice Bowl)",
     "content_type": "Recipe",
     "url": "./recipes/gyudon.html",
     "image": "./static/images/Gyudon_Japanese_Beef_Rice_Bowl_1_400x533.jpg",
-    "ingredients": "japanese, dinner, Ribeye",
+    "ingredients": "japanese, dinner, ribeye, asian",
     "flavor": "umami, savory, salty"
     },
     {
@@ -12,7 +20,7 @@
     "content_type": "Recipe",
     "url": "./recipes/agedashi-tofu.html",
     "image": "./static/images/Agedashi_Tofu_1_400x533.jpg",
-    "ingredients": "fried, japanese, dinner",
+    "ingredients": "fried, japanese, dinner, asian",
     "flavor": "umami, savory, salty"
     },
     {
