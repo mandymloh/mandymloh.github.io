@@ -195,3 +195,10 @@ h1{
   box-shadow: none;
 }
 
+@media (min-width: 768px) {
+  .img-thumbnail { width: 70px; }
+}
+
+@media (max-width: 350px) {
+  .img-thumbnail { width: 70px; }
+}
