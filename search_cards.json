@@ -1,5 +1,13 @@
 [
     {
+    "title": "Malaysian BBQ Chicken Wings",
+    "content_type": "Recipe",
+    "url": "./recipes/malaysian-bbq-chicken-wings.html",
+    "image": "./static/images/Malaysian_BBQ_Chicken_Wings_1_400x533.jpg",
+    "ingredients": "malaysian, dinner, chicken, asian",
+    "flavor": "umami, savory, salty"
+    },
+    {
     "title": "Butadon (Japanese Pork Rice Bowl)",
     "content_type": "Recipe",
     "url": "./recipes/butadon.html",
