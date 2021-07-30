@@ -1,5 +1,13 @@
 [
     {
+    "title": "Tonkatsu Curry",
+    "content_type": "Recipe",
+    "url": "./recipes/tonkatsu-curry.html",
+    "image": "./static/images/Tonkatsu_Japanese_Breaded_Pork_Chop_with_Curry_1_400x533.jpg",
+    "ingredients": "japanese, dinner, pork, asian",
+    "flavor": "umami, savory, salty"
+    },
+    {
     "title": "Malaysian BBQ Chicken Wings",
     "content_type": "Recipe",
     "url": "./recipes/malaysian-bbq-chicken-wings.html",
