@@ -128,26 +128,19 @@
       }
     </script>
 
-    <!-- The core Firebase JS SDK is always required and must be listed first -->
-    <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-app.js"></script>
-
-    <!-- TODO: Add SDKs for Firebase products that you want to use
-        https://firebase.google.com/docs/web/setup#available-libraries -->
-
-    <script>
-      // Your web app's Firebase configuration
-      var firebaseConfig = {
-        apiKey: "AIzaSyCUua5FaPBdPsJ2fUQ7IBpdYHRKKe4r0HA",
-        authDomain: "flavor-to-taste-web-app.firebaseapp.com",
-        databaseURL: "https://flavor-to-taste-web-app-default-rtdb.firebaseio.com",
-        projectId: "flavor-to-taste-web-app",
-        storageBucket: "flavor-to-taste-web-app.appspot.com",
-        messagingSenderId: "803344126281",
-        appId: "1:803344126281:web:da4257445bdfa718c34a98"
-      };
-      // Initialize Firebase
-      firebase.initializeApp(firebaseConfig);
+    <!-- Google Tracking Code -->
+    <script type="text/plain" ccpa-opt-out="personalized-ads"> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNod e.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', /* Google Property ID */, 'auto'); ga('send', 'pageview');
     </script>
+
+    <!-- CCPA Opt-Out by https://www.TermsFeed.com -->
+    <script type="text/javascript" src="//www.termsfeed.com/public/ccpa-opt-out/releases/1.0.0/ccpa-opt-out.js"></script>
+    <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+    ccpa_optout.run({"banner_style":"top","banner_color_palette":"light","banner_title":"Do Not Sell My Information","banner_description":"Turning this off will opt you out of personalized advertisements on this website.","banner_category_label":"Personalized Advertisements","banner_confirmation_button":"Save Preference","banner_close_button":"Close","change_settings_selector":"#changePreferences","loads_on_page_load_for_new_users":"true","banner_category_status_opted_out":"Opted Out","banner_category_status_not_opted_out":"Not Opted Out"});
+    });
+    </script>
+    <noscript>CCPA Opt-Out by <a href="https://www.TermsFeed.com/ccpa-opt-out/" rel="nofollow noopener">TermsFeed</a></noscript>
+    <!-- End CCPA Opt-Out -->
 
   </body>
 
