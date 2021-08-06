@@ -1,5 +1,13 @@
 [
     {
+    "title": "Lobster Pasta with Lemon Creme Fraiche Sauce",
+    "content_type": "Recipe",
+    "url": "./recipes/lobster-pasta-with-lemon-sauce.html",
+    "image": "./static/images/Lobster_Pasta_with_Lemon_Creme_Fraiche_Sauce_1_400x533.jpg",
+    "ingredients": "Linguine, Italian, dinner",
+    "flavor": "umami, savory, salty"
+    },
+    {
     "title": "Tonkatsu Curry",
     "content_type": "Recipe",
     "url": "./recipes/tonkatsu-curry.html",
