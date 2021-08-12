@@ -1,5 +1,13 @@
 [
     {
+    "title": "Wagyu Steak Donburi (Rice Bowl)",
+    "content_type": "Recipe",
+    "url": "./recipes/wagyu-steak-donburi.html",
+    "image": "./static/images/Wagyu_Steak_Donburi_Rice_Bowl_1_400x533.jpg",
+    "ingredients": "egg, rice, dinner, japanese, asian",
+    "flavor": "umami, savory, salty"
+    },
+    {
     "title": "Lobster Pasta with Lemon Creme Fraiche Sauce",
     "content_type": "Recipe",
     "url": "./recipes/lobster-pasta-with-lemon-sauce.html",
