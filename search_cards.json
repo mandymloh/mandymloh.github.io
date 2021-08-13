@@ -1,5 +1,13 @@
 [
     {
+    "title": "Hong-Kong Style Chow Mein",
+    "content_type": "Recipe",
+    "url": "./recipes/hong-kong-style-chow-mein.html",
+    "image": "./static/images/Hong_Kong_Style_Supreme_Soy_Sauce_Chow_Mein_1_400x533.jpg",
+    "ingredients": "noodles, dinner, asian",
+    "flavor": "umami, savory, salty"
+    },
+    {
     "title": "Wagyu Steak Donburi (Rice Bowl)",
     "content_type": "Recipe",
     "url": "./recipes/wagyu-steak-donburi.html",
