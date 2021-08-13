@@ -1,286 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/taiwanese-fried-pork-chop.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/bak-kut-teh.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/japanese-grilled-pork-belly-skewers.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/honey-milk-papaya-boat.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/strawberry-lemon-mint-detox-water.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/chrysanthemum-flower-tea.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/squid-ink-rice-with-grilled-shrimp-and-linguica.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/sesame-spinach-noodles.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/air-fryer-panko-shrimp-cutlet.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/air-fryer-malaysian-chicken-curry.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/loco-moco-with-spam.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/air-fryer-roast-pork-belly.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/sandy-skin-chicken.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/hakka-board-noodles.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/coconut-juice-braised-sticky-chicken-thighs.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/butterfly-pea-flower-rice.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/honey-and-raisin-corn-flake-cups.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/yin-yeung-fried-rice.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/black-pepper-cream-sauce.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/pineapple-tarts.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/braised-pork-belly.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/chayote-squash-soup-broth.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/wok-charred-lotus-root-with-chinese-sausage.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/shallot-oil.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes/pan-fried-sea-bass.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/search.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/recipes.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/forms/contact.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/about/mandy.html</loc>
-
-
-</url>
-
-
-<url>
-
-
-     <loc>http://www.flavortotaste.com/about/family-history.html</loc>
-
-
-</url>
-
-
+     <url>
+          <loc>https://www.flavortotaste.com/</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/wagyu-steak-donburi.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/lobster-pasta-with-lemon-sauce.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/tonkatsu-curry.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/malaysian-bbq-chicken-wings.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/butadon.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/gyudon.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/agedashi-tofu.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/pandan-coconut-sugar-creme-brulee.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/hainanese-chicken-rice.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/ipoh-shredded-chicken-noodle-soup.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/one-pot-chicken-and-linguica-rice.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/cheesecake-cookie-bars.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/smoked-ribeye-steak.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/homemade-chocolate-chip-cookies.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/smoked-beer-can-chicken.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/taiwanese-fried-pork-chop.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/bak-kut-teh.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/japanese-grilled-pork-belly-skewers.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/honey-milk-papaya-boat.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/strawberry-lemon-mint-detox-water.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/chrysanthemum-flower-tea.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/squid-ink-rice-with-grilled-shrimp-and-linguica.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/sesame-spinach-noodles.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/air-fryer-panko-shrimp-cutlet.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/air-fryer-malaysian-chicken-curry.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/loco-moco-with-spam.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/air-fryer-roast-pork-belly.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/sandy-skin-chicken.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/hakka-board-noodles.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/coconut-juice-braised-sticky-chicken-thighs.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/butterfly-pea-flower-rice.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/honey-and-raisin-corn-flake-cups.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/yin-yeung-fried-rice.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/black-pepper-cream-sauce.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/pineapple-tarts.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/braised-pork-belly.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/chayote-squash-soup-broth.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/wok-charred-lotus-root-with-chinese-sausage.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/shallot-oil.html</loc>
+     </url>
+     <url>
+          <loc>http://www.flavortotaste.com/recipes/pan-fried-sea-bass.html</loc>
+     </url>
+     <url>
+          <loc>https://www.flavortotaste.com/search.html</loc>
+     </url>
+     <url>
+          <loc>https://www.flavortotaste.com/explore.html</loc>
+     </url>
+     <url>
+          <loc>https://www.flavortotaste.com/recipes.html</loc>
+     </url>
+     <url>
+          <loc>https://www.flavortotaste.com/forms/contact.html</loc>
+     </url>
+     <url>
+          <loc>https://www.flavortotaste.com/about/mandy.html</loc>
+     </url>
+     <url>
+          <loc>https://www.flavortotaste.com/about/family-history.html</loc>
+     </url>
 </urlset>
